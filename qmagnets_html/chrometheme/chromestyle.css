@@ -1,0 +1,360 @@
+.chromestyle{
+	width: 100%;
+	font-weight: bold;
+}
+
+.chromestyle:after{ /*Add margin between menu and rest of content in Firefox*/
+content: "."; 
+display: block; 
+height: 0; 
+clear: both; 
+visibility: hidden;
+}
+
+.chromestyle ul{
+	width: 100%;
+	margin: 0;
+	text-align: center; /*set value to "left", "center", or "right"*/
+	padding-top: 0px;
+	padding-right: 0;
+	padding-bottom: 0px;
+	padding-left: 0px;
+
+}
+
+.chromestyle ul li{
+	display: inline;
+	float:left;
+	padding-right: 0px;
+}
+
+.chromestyle ul li a{
+	margin: 0;
+	text-decoration: none;
+	/*text-indent: -10000px;*/	
+}
+
+.chromestyle ul li a:hover, .chromestyle ul li a.selected{ /*script dynamically adds a class of "selected" to the current active menu item*/
+	background-image: url(../images/nav_bg.jpg);
+	background-repeat: repeat-x;
+	background-position: left top;
+ /*THEME CHANGE HERE*/
+}
+
+/* ######### Style for Drop Down Menu ######### */
+
+.dropmenudiv{
+	position:absolute;
+	top: 0;
+	border-bottom-width: 0;
+	line-height:34px;
+	z-index:100;
+	background-color: #1a191a;
+	width: 110px;
+	visibility: hidden;
+	font-family: 'ITC Avant Garde Gothic Demi', Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight:bold;
+	font-variant: normal;
+}
+.dropmenudiv a{
+	width: auto;
+	display: block;
+	text-indent: 3px;
+	padding-left: 10px;
+	text-decoration: none;
+	color:#737272;
+	margin: 0px;
+	background-image: url(../images/nav_r.jpg);
+	background-repeat: repeat-x;
+	background-position: 0px 0px;
+}
+
+* html .dropmenudiv a{ /*IE only hack*/
+width: 100%;
+}
+
+.dropmenudiv a:hover{ /*THEME CHANGE HERE*/
+	background-color: #2f2f2f;
+	color:#737272;/*
+	background-image: url(../images/nav_t.jpg);
+	background-repeat: repeat-x;
+	background-position: 0px 0px;*/
+}
+
+
+
+a.hma {
+	background-image: url(../images/nav_home_no_img.jpg);
+	background-repeat:no-repeat;
+	background-position: 0px 0px;
+	line-height: 45px;
+	display: block;
+	height: 45px;
+	width: 73px;
+	font-family: 'ITC Avant Garde Gothic Demi', Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: normal;
+	color: #737272;
+}
+a.hma:hover {
+	background-image: url(../images/nav_home_ho_img.jpg);
+	background-repeat:no-repeat;
+	background-position: 0px 0px;
+	line-height: 45px;
+	display: block;
+	height: 45px;
+	width: 73px;
+	font-family: 'ITC Avant Garde Gothic Demi', Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: normal;
+	color: #737272;
+}
+a.hmamain {
+	background-image: url(../images/nav_home_ho_img.jpg);
+	background-repeat:no-repeat;
+	background-position: 0px 0px;
+	line-height: 45px;
+	display: block;
+	height: 45px;
+	width: 73px;
+	font-family: 'ITC Avant Garde Gothic Demi', Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: normal;
+	color: #737272;
+}
+a.bksa {
+	background-image: url(../images/nav_abo_no_img.jpg);
+	background-repeat:no-repeat;
+	background-position: 0px 0px;
+	line-height: 45px;
+	display: block;
+	height: 45px;
+	width: 92px;
+	font-family: 'ITC Avant Garde Gothic Demi', Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: normal;
+	color: #737272;
+}
+a.bksa:hover {
+	background-image: url(../images/nav_abo_ho_img.jpg);
+	background-repeat:no-repeat;
+	background-position: 0px 0px;
+	line-height: 45px;
+	display: block;
+	height: 45px;
+	width: 92px;
+	font-family: 'ITC Avant Garde Gothic Demi', Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: normal;
+	color: #737272;
+}
+a.bksamain {
+	background-image: url(../images/nav_abo_ho_img.jpg);
+	background-repeat:no-repeat;
+	background-position: 0px 0px;
+	line-height: 45px;
+	display: block;
+	height: 45px;
+	width: 92px;
+	font-family: 'ITC Avant Garde Gothic Demi', Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: normal;
+	color: #737272;
+}
+a.weba {
+	background-image: url(../images/nav_how_no_img.jpg);
+	background-repeat:no-repeat;
+	background-position: 0px 0px;
+	line-height: 45px;
+	display: block;
+	height: 45px;
+	width: 113px;
+	font-family: 'ITC Avant Garde Gothic Demi', Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: normal;
+	color: #737272;
+}
+a.weba:hover {
+	background-image: url(../images/nav_how_ho_img.jpg);
+	background-repeat:no-repeat;
+	background-position: 0px 0px;
+	line-height: 45px;
+	display: block;
+	height: 45px;
+	width: 113px;
+	font-family: 'ITC Avant Garde Gothic Demi', Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: normal;
+	color: #737272;
+}
+a.webamain {
+	background-image: url(../images/nav_how_ho_img.jpg);
+	background-repeat:no-repeat;
+	background-position: 0px 0px;
+	line-height: 45px;
+	display: block;
+	height: 45px;
+	width: 113px;
+	font-family: 'ITC Avant Garde Gothic Demi', Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: normal;
+	color: #737272;
+}
+a.blog {
+	background-image: url(../images/nav_buy_no_img.jpg);
+	background-repeat:no-repeat;
+	background-position: 0px 0px;
+	line-height: 45px;
+	display: block;
+	height: 45px;
+	width:93px;
+	font-family: 'ITC Avant Garde Gothic Demi', Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: normal;
+	color: #737272;
+}
+a.blog:hover {
+	background-image: url(../images/nav_buy_ho_img.jpg);
+	background-repeat:no-repeat;
+	background-position: 0px 0px;
+	line-height: 45px;
+	display: block;
+	height: 45px;
+	width:93px;
+	font-family: 'ITC Avant Garde Gothic Demi', Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: normal;
+	color: #737272;
+}
+a.blogmain {
+	background-image: url(../images/nav_buy_ho_img.jpg);
+	background-repeat:no-repeat;
+	background-position: 0px 0px;
+	line-height: 45px;
+	display: block;
+	height: 45px;
+	width:93px;
+	font-family: 'ITC Avant Garde Gothic Demi', Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: normal;
+	color: #737272;
+}
+a.car {
+	background-image: url(../images/nav_blog_no_img.jpg);
+	background-repeat:no-repeat;
+	background-position: 0px 0px;
+	line-height: 45px;
+	display: block;
+	height: 45px;
+	width: 62px;
+	font-family: 'ITC Avant Garde Gothic Demi', Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: normal;
+	color: #737272;
+}
+a.car:hover {
+	background-image: url(../images/nav_blog_ho_img.jpg);
+	background-repeat:no-repeat;
+	background-position: 0px 0px;
+	line-height: 45px;
+	display: block;
+	height: 45px;
+	width: 62px;
+	font-family: 'ITC Avant Garde Gothic Demi', Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: normal;
+	color: #737272;
+}
+a.carmain {
+	background-image: url(../images/nav_blog_ho_img.jpg);
+	background-repeat:no-repeat;
+	background-position: 0px 0px;
+	line-height: 45px;
+	display: block;
+	height: 45px;
+	width: 62px;
+	font-family: 'ITC Avant Garde Gothic Demi', Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: normal;
+	color: #737272;
+}
+a.en {
+	background-image: url(../images/nav_press_no_img.jpg);
+	background-repeat:no-repeat;
+	background-position: 0px 0px;
+	line-height: 45px;
+	display: block;
+	height: 45px;
+	width: 113px;
+	font-family: 'ITC Avant Garde Gothic Demi', Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: normal;
+	color: #737272;
+}
+a.en:hover {
+	background-image: url(../images/nav_press_ho_img.jpg);
+	background-repeat:no-repeat;
+	background-position: 0px 0px;
+	line-height: 45px;
+	display: block;
+	height: 45px;
+	width: 113px;
+	font-family: 'ITC Avant Garde Gothic Demi', Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: normal;
+	color: #737272;
+}
+a.enmain {
+	background-image: url(../images/nav_press_ho_img.jpg);
+	background-repeat:no-repeat;
+	background-position: 0px 0px;
+	line-height: 45px;
+	display: block;
+	height: 45px;
+	width: 113px;
+	font-family: 'ITC Avant Garde Gothic Demi', Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: normal;
+	color: #737272;
+}
+a.pd {
+	background-image: url(../images/nav_con_no_img.jpg);
+	background-repeat:no-repeat;
+	background-position: 0px 0px;
+	line-height: 45px;
+	display: block;
+	height: 45px;
+	width: 82px;
+	font-family: 'ITC Avant Garde Gothic Demi', Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: normal;
+	color: #737272;
+}
+a.pd:hover {
+	background-image: url(../images/nav_con_ho_img.jpg);
+	background-repeat:no-repeat;
+	background-position: 0px 0px;
+	line-height: 45px;
+	display: block;
+	height: 45px;
+	width: 82px;
+	font-family: 'ITC Avant Garde Gothic Demi', Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: normal;
+	color: #737272;
+}
+a.pdmain {
+	background-image: url(../images/nav_con_ho_img.jpg);
+	background-repeat:no-repeat;
+	background-position: 0px 0px;
+	line-height: 45px;
+	display: block;
+	height: 45px;
+	width: 82px;
+	font-family: 'ITC Avant Garde Gothic Demi', Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: normal;
+	color: #737272;
+}

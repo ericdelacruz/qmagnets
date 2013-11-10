@@ -1,0 +1,499 @@
+@charset "utf-8";
+
+
+/*
+Theme Name: Qmagnets
+Theme URI: http://wordpress.org/
+Description: Qmagnets site integration theme based on the Wordpress Classic.
+Version: 1.5
+Author: Angus Elliott, Dave Shea
+Tags: mantle color, variable width, two columns, widgets
+
+Default WordPress by Dave Shea || http://mezzoblue.com
+Modifications by Matthew Mullenweg || http://photomatt.net
+*/
+
+a {
+	color: #259;
+}
+
+a img {
+	border: none;
+}
+
+a:visited {
+	color: #342;
+}
+
+a:hover {
+	color: #9a8;
+}
+
+acronym, abbr {
+	border-bottom: 1px dashed #333;
+}
+
+acronym, abbr, span.caps {
+	font-size: 90%;
+	letter-spacing: .07em;
+}
+
+acronym, abbr {
+	cursor: help;
+}
+
+blockquote {
+	border-left: 5px solid #ccc;
+	margin-left: 1.5em;
+	padding-left: 5px;
+}
+
+body {
+	border: 2px solid #565;
+	color: #000;
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+cite {
+	font-size: 90%;
+	font-style: normal;
+}
+
+h2 {
+	border-bottom: 1px dotted #ccc;
+	font: 95% "Times New Roman", Times, serif;
+	letter-spacing: 0.2em;
+	margin: 15px 0 2px 0;
+	padding-bottom: 2px;
+}
+
+h3 {
+	border-bottom: 1px dotted #eee;
+	font-family: "Times New Roman", Times, serif;
+	margin-top: 0;
+}
+
+ol#comments li p {
+	font-size: 100%;
+}
+
+p, li, .feedback {
+	font: 90%/175% 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+	letter-spacing: -1px;
+}
+
+/* classes used by the_meta() */
+ul.post-meta {
+	list-style: none;
+}
+
+ul.post-meta span.post-meta-key {
+	font-weight: bold;
+}
+
+.credit {
+	background: #90a090;
+	border-top: 3px double #aba;
+	color: #fff;
+	font-size: 11px;
+	margin: 10px 0 0 0;
+	padding: 3px;
+	text-align: center;
+}
+
+.credit a:link, .credit a:hover {
+	color: #fff;
+}
+
+.feedback {
+	color: #ccc;
+	text-align: right;
+	clear: both;
+}
+
+.meta {
+	font-size: .75em;
+}
+
+.meta li, ul.post-meta li {
+	display: inline;
+}
+
+.meta ul {
+	display: inline;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.meta, .meta a {
+	color: #808080;
+	font-weight: normal;
+	letter-spacing: 0;
+}
+
+.storytitle {
+	margin: 0;
+}
+
+.storytitle a {
+	text-decoration: none;
+}
+
+#commentform #author, #commentform #email, #commentform #url, #commentform textarea {
+	background: #fff;
+	border: 1px solid #333;
+	padding: .2em;
+}
+
+#commentform textarea {
+	width: 100%;
+}
+
+#commentlist li ul {
+	border-left: 1px solid #ddd;
+	font-size: 110%;
+	list-style-type: none;
+}
+
+#commentlist li .avatar {
+	float: right;
+	margin-right: 25px;
+	border: 1px dotted #ccc;
+	padding: 2px;
+}
+
+#content {
+	margin: 30px 13em 0 3em;
+	padding-right: 60px;
+}
+
+#header {
+	background: #90a090;
+	border-bottom: 3px double #aba;
+	border-left: 1px solid #9a9;
+	border-right: 1px solid #565;
+	border-top: 1px solid #9a9;
+	font: italic normal 230% 'Times New Roman', Times, serif;
+	letter-spacing: 0.2em;
+	margin: 0;
+	padding: 15px 10px 15px 60px;
+}
+
+#header a {
+	color: #fff;
+	text-decoration: none;
+}
+
+#header a:hover {
+	text-decoration: underline;
+}
+
+#menu {
+	background: #fff;
+	border-left: 1px dotted #ccc;
+	border-top: 2px solid #e0e6e0;
+	padding: 20px 0 10px 30px;
+	position: relative;
+	width: 11em;
+}
+
+#menu form {
+	margin: 0 0 0 13px;
+}
+
+#menu input#s {
+	width: 80%;
+	background: #eee;
+	border: 1px solid #999;
+	color: #000;
+}
+#menu ul {	color: #ccc;	font-weight: normal;	list-style-type: none;	margin: 0;	padding-left: 3px;	text-transform: lowercase;}
+#menu ul li {	font: italic normal 110% 'Times New Roman', Times, serif;	font-size: 10px;	font-weight: normal;	line-height: 100%;
+	letter-spacing: 0.1em;	background-image: none;	margin-top: 10px;	padding-bottom: 2px; /*border-bottom: dotted 1px #ccc;*/	padding-left: 0;}
+#menu ul ul {	font-variant: normal;	font-weight: normal;	line-height: 100%;	list-style-type: none;	margin: 0;	padding: 0;	text-align: left;}
+#menu ul ul li {	border: 0;	font: normal normal 12px/115% 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;	letter-spacing: 0;	margin-top: 0;	padding: 0;	padding-left: 12px;}
+#menu ul ul li a {	color: #000;	text-decoration: none;}#menu ul ul li a:hover {	border-bottom: 1px solid #809080;}
+#menu ul ul ul.children {	font-size: 142%;	padding-left: 4px;}
+#wp-calendar {
+	border: 1px solid #ddd;
+	empty-cells: show;
+	font-size: 14px;
+	margin: 0;
+	width: 90%;
+}
+
+#wp-calendar #next a {
+	padding-right: 10px;
+	text-align: right;
+}
+
+#wp-calendar #prev a {
+	padding-left: 10px;
+	text-align: left;
+}
+
+#wp-calendar a {
+	display: block;
+	text-decoration: none;
+}
+
+#wp-calendar a:hover {
+	background: #e0e6e0;
+	color: #333;
+}
+
+#wp-calendar caption {
+	color: #999;
+	font-size: 16px;
+	text-align: left;
+}
+
+#wp-calendar td {
+	color: #ccc;
+	font: normal 12px 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+	letter-spacing: normal;
+	padding: 2px 0;
+	text-align: center;
+}
+
+#wp-calendar td.pad:hover {
+	background: #fff;
+}
+
+#wp-calendar td:hover, #wp-calendar #today {
+	background: #eee;
+	color: #bbb;
+}
+
+#wp-calendar th {
+	font-style: normal;
+	text-transform: capitalize;
+}
+
+/* Captions & aligment */
+.aligncenter,
+div.aligncenter {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.alignleft {
+	float: left;
+}
+
+.alignright {
+	float: right;
+}
+
+.wp-caption {
+	border: 1px solid #ddd;
+	text-align: center;
+	background-color: #f3f3f3;
+	padding-top: 4px;
+	margin: 10px;
+	-moz-border-radius: 3px;
+	-khtml-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+}
+
+.wp-caption img {
+	margin: 0;
+	padding: 0;
+	border: 0 none;
+}
+
+.wp-caption p.wp-caption-text {
+	font-size: 11px;
+	line-height: 17px;
+	padding: 0 4px 5px;
+	margin: 0;
+}
+/* End captions & aligment */
+
+
+/* Layout Styles*/
+
+body {
+	font: 100% Verdana, Arial, Helvetica, sans-serif;
+	background: #669aff;
+	margin: 0; /* it's good practice to zero the margin and padding of the body element to account for differing browser defaults */
+	padding: 0;
+	text-align: center; /* this centers the container in IE 5* browsers. The text is then set to the left aligned default in the #container selector */
+	color: #669AFF;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.oneColLiqCtr #container {
+	width: 960px;
+	background-image:url(images/bg_02.jpg);
+	background-repeat:repeat-y;
+	margin: 0 auto; /* the auto margins (in conjunction with a width) center the page */
+	text-align: left; /* this overrides the text-align: center on the body element. */
+}
+.oneColLiqCtr #mainContent {
+	padding: 10px 50px; 
+}
+.oneColLiqCtr #mainContent #rightfloat {
+	float:right;
+	width:28%;
+	padding-left:2%;
+	border-left: thin solid #333333;
+}
+.oneColLiqCtr #mainContent #leftfloat {
+	float:left;
+	width:67%;
+	padding-right:2%;
+}
+.oneColLiqCtr #mainContent #bottomfloat {
+	clear:both;
+}
+.oneColLiqCtr #headerContent {
+	height: 175px;
+	background-image:url(images/bg_01.jpg);
+	background-repeat:no-repeat;
+}
+.oneColLiqCtr #navbarContent {
+	padding: 0 30px; 
+}
+.oneColLiqCtr .textnavContent {
+	padding: 0 30px; 
+}
+.oneColLiqCtr #footerContent {
+	height: 121px;
+	background-image:url(images/bg_04.jpg);
+	background-repeat:no-repeat;
+	text-align:center;
+	clear:both;
+}
+/* Formatting Styles*/
+#navbarContent .textnavContent {
+	background-color:#CCCCCC;
+	border-top: thin solid #000000;
+	font-size: 12px;
+	font-weight: bold;
+	line-height: 140%;
+	text-align: left;
+	padding: 5px 10px;
+	margin: 0;
+}
+.textnavContent a {
+	text-decoration: none;
+}
+
+.textnavContent a:link {
+	color: black;
+}
+.textnavContent a:visited {
+	color: black;
+}
+.textnavContent a:hover {
+	color:#006699;
+}
+.textnavContent a:active {
+	color: black;
+}
+
+#footerContent .textnavContent p { 
+	color: black; 
+	font-size: 10px; 
+	font-weight: normal; 
+	line-height: 140%; 
+	text-align: center; 
+	padding-bottom: 15px;
+}
+#footerContent .textnavContent a { 
+	color: black;
+	font-size: 11px;
+	font-weight: normal;
+	line-height: 140%;
+	text-decoration: none;
+	text-align: center;
+	padding-bottom: 15px;
+}
+
+.psmall { font-size: 12px; }
+
+	h1 { color: red; font-size: 20px; font-weight: bold; line-height: 120%; text-align: center; margin-top: 20px; margin-bottom: 30px; }
+	h2 { color: black; font-size: 15px; font-weight: bold; line-height: normal; text-align: center; margin-bottom: 30px; }
+	p { color: black; font-size: 15px; line-height: 140%; text-align: left; padding-bottom: 15px; }
+	#mainContent ul { text-align: left; margin-right: 45px; margin-left: 45px; list-style-type: none; }
+	#mainContent ul li { color: black; font-size: 15px; font-weight: bold; line-height: 120%; background-image: url(../../img/clip_image003_000.gif); background-repeat: no-repeat; background-position: 0 3px; padding-bottom: 15px; padding-left: 30px; list-style-position: outside; }
+	ol { text-align: left; list-style-type: none; margin-right: 45px; margin-left: 45px; }
+	ol li { color: black; font-size: 15px; font-weight: normal; line-height: 120%; background-image: url(../../img/clip_image004_000.gif); background-repeat: no-repeat; background-position: 0 -1px; list-style-position: outside; padding-bottom: 15px; padding-left: 30px; }
+	#mainContent a:link { color: blue }
+	#mainContent a:visited { color: purple }
+	#mainContent a:hover { color: purple }
+	#mainContent a:active { color: red }
+
+	/*testimonial*/
+	.testimonial {
+	background-color: #fffacd;
+	width: 750px;
+	clear: both;
+	margin-right: auto;
+	margin-bottom: 30px;
+	margin-left: auto;
+	padding: 10px;
+	border: solid 3px black;
+}
+	.testimonial p { font-size: 16px; font-style: italic; margin: 0; padding: 0 0 15px; }
+	.testimonial h1 { color: black; font-size: 18px; font-weight: bold; line-height: normal; text-align: center; margin: 0 0 15px; padding: 0; }
+	.testimonial h2 { color: black; font-size: 12px; font-weight: normal; line-height: normal; text-align: left; margin: 0 0 15px; padding: 0; }
+	.testimonial h3 { color: red; font-size: 18px; font-weight: bold; font-style: italic; line-height: normal; text-align: left; margin: 0 0 15px; padding: 0; }
+	.testimonial h4 { color: black; font-size: 11px; font-weight: normal; line-height: normal; text-align: right; clear: both; margin: 0 0 15px; padding: 0; }
+
+/*<agl.folder "nav">*/
+
+	#topnav { width: 600px; margin-bottom: 30px; }
+	#topnav ul { text-align: center; margin: 10px 0 0; padding: 0; }
+	#topnav li { background-color: #69f; background-image: none; margin: 0 4px 0 0; padding: 0 4px 4px; display: inline; }
+	#topnav a { color: white; font-size: 12px; background-image: none; text-decoration: none; margin: 0; padding: 0; }
+	#topnav a:hover { color: #fffacd; text-decoration: underline; background-image: none; }
+
+.innerpagenav {
+	background-color: #e8effc;
+	margin-right: auto;
+	margin-bottom: 30px;
+	margin-left: auto;
+	padding: 10px;
+	width: 550px;
+	clear: both;
+	border: solid 3px black;
+}
+.caption { color: black; font-size: 10px; text-align: center; width: 350px; margin: 0 auto 30px; padding: 10px; }
+.right-img { float: right; margin-bottom: 15px; margin-left: 15px; }
+.left-img { margin-bottom: 15px; float: left; margin-right: 15px; }
+.center-img { margin-bottom: 15px; }
+.red { color: red; font-weight: bold; }
+.blue { color: #69f; }
+
+	/*order*/
+	.order { background-color: #fcf9e6; width: 450px; clear: both; margin-right: auto; margin-bottom: 30px; margin-left: auto; padding: 10px; }
+	.order p { font-size: 16px; font-style: italic; margin: 0; padding: 0 0 15px; }
+	.order a:link { text-decoration: none; }
+	.order h1 { color: black; font-size: 18px; font-weight: bold; line-height: normal; text-decoration: none; text-align: center; margin: 0 0 15px; padding: 0; }
+	.order h2 { color: black; font-size: 12px; font-weight: normal; line-height: normal; text-align: left; margin: 0 0 15px; padding: 0; }
+	.order h3 { color: red; font-size: 18px; font-weight: bold; font-style: italic; line-height: normal; text-align: left; margin: 0 0 15px; padding: 0; }
+	.order h4 { color: black; font-size: 11px; font-weight: normal; line-height: normal; text-align: right; clear: both; margin: 0 0 15px; padding: 0; }
+#sitemap ul {
+	padding: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 2em;
+	list-style-type: square;
+}
+#sitemap {
+	padding-left: 5em;
+	font-size: 11px;
+}
+
+#sitemap ul li{
+	padding: 0px;
+	margin: 0px;
+}

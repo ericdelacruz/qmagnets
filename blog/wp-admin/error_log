@@ -1,0 +1,11 @@
+[07-Sep-2009 08:41:22] not well-formed (invalid token) at line 45, column 83
+[07-Sep-2009 08:41:22] not well-formed (invalid token) at line 79, column 83
+[08-Sep-2009 00:29:51] not well-formed (invalid token) at line 110, column 83
+[08-Sep-2009 00:31:08] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2944 bytes) in /home/jabez7/public_html/qmagnets/blog/wp-admin/includes/image.php on line 147
+[08-Sep-2009 00:31:56] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11776 bytes) in /home/jabez7/public_html/qmagnets/blog/wp-admin/includes/image.php on line 147
+[08-Sep-2009 06:51:39] not well-formed (invalid token) at line 110, column 83
+[14-Sep-2009 02:42:29] not well-formed (invalid token) at line 77, column 83
+[16-Sep-2009 04:13:28] not well-formed (invalid token) at line 61, column 83
+[03-Dec-2009 03:47:17] PHP Warning:  array_slice() expects parameter 1 to be array, null given in /home/jabez7/public_html/qmagnets/blog/wp-content/plugins/store-locator/via-latest.php on line 43
+[27-Jun-2010 11:11:02] PHP Warning:  array_slice() expects parameter 1 to be array, null given in /home/jabez7/public_html/qmagnets/blog/wp-content/plugins/store-locator/via-latest.php on line 43
+[30-Jan-2012 17:31:08] PHP Warning:  file_get_contents(http:) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/jabez7/public_html/qmagnets/blog/wp-includes/class-feed.php on line 88

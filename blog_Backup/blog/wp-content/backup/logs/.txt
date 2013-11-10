@@ -1,0 +1,18 @@
+WordPress Version: 2.7.1
+BackUpWordPress Version: 0.4.5
+## September 24, 2009 05:51:45: successfully written to SQLfile: /home/jabez7/public_html/qmagnets/blog/wp-content/backup/2009-09-24-05-51-45/wordpress.sql
+## September 24, 2009 05:51:45: successfully written to SQLfile: /home/jabez7/public_html/qmagnets/blog/wp-content/backup/2009-09-24-05-51-45/wordpress.sql
+## September 24, 2009 05:51:45: successfully written to SQLfile: /home/jabez7/public_html/qmagnets/blog/wp-content/backup/2009-09-24-05-51-45/wordpress.sql
+## September 24, 2009 05:51:46: successfully written to SQLfile: /home/jabez7/public_html/qmagnets/blog/wp-content/backup/2009-09-24-05-51-45/wordpress.sql
+## September 24, 2009 05:51:46: successfully written to SQLfile: /home/jabez7/public_html/qmagnets/blog/wp-content/backup/2009-09-24-05-51-45/wordpress.sql
+## September 24, 2009 05:51:46: successfully written to SQLfile: /home/jabez7/public_html/qmagnets/blog/wp-content/backup/2009-09-24-05-51-45/wordpress.sql
+## September 24, 2009 05:51:46: successfully written to SQLfile: /home/jabez7/public_html/qmagnets/blog/wp-content/backup/2009-09-24-05-51-45/wordpress.sql
+## September 24, 2009 05:51:46: successfully written to SQLfile: /home/jabez7/public_html/qmagnets/blog/wp-content/backup/2009-09-24-05-51-45/wordpress.sql
+## September 24, 2009 05:51:46: successfully written to SQLfile: /home/jabez7/public_html/qmagnets/blog/wp-content/backup/2009-09-24-05-51-45/wordpress.sql
+## September 24, 2009 05:51:46: successfully written to SQLfile: /home/jabez7/public_html/qmagnets/blog/wp-content/backup/2009-09-24-05-51-45/wordpress.sql
+## September 24, 2009 05:51:46: successfully written to SQLfile: /home/jabez7/public_html/qmagnets/blog/wp-content/backup/2009-09-24-05-51-45/wordpress.sql
+## September 24, 2009 05:51:46: successfully written to SQLfile: /home/jabez7/public_html/qmagnets/blog/wp-content/backup/2009-09-24-05-51-45/wordpress.sql
+## September 24, 2009 05:51:46: successfully written to SQLfile: /home/jabez7/public_html/qmagnets/blog/wp-content/backup/2009-09-24-05-51-45/wordpress.sql
+## September 24, 2009 05:51:46: successfully written to SQLfile: /home/jabez7/public_html/qmagnets/blog/wp-content/backup/2009-09-24-05-51-45/wordpress.sql
+## September 24, 2009 05:51:46: successfully written to SQLfile: /home/jabez7/public_html/qmagnets/blog/wp-content/backup/2009-09-24-05-51-45/wordpress.sql
+## September 24, 2009 05:51:46: successfully written to SQLfile: /home/jabez7/public_html/qmagnets/blog/wp-content/backup/2009-09-24-05-51-45/wordpress.sql

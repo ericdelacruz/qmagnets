@@ -1,0 +1,29 @@
+Preset: full backup
+Schedule: manually
+WordPress Version: 2.7.1
+BackUpWordPress Version: 0.4.5
+## September 24, 2009 05:51:45: BackUpWordPress starting at September 24, 2009 05:51:45
+## September 24, 2009 05:51:45: BackUpWordPress using Preset full backup
+## September 24, 2009 05:51:45: BackUpWordPress temporary Directory '/home/jabez7/public_html/qmagnets/blog/wp-content/backup/2009-09-24-05-51-45' created
+## September 24, 2009 05:51:45: BackUpWordPress temporary Directory '/home/jabez7/public_html/qmagnets/blog/wp-content/backup/2009-09-24-05-51-45/wordpress_files' created
+## September 24, 2009 05:51:45: MySQL server connected successfully  September 24, 2009 05:51:45
+## September 24, 2009 05:51:45: sql-dump for wp_comments created September 24, 2009 05:51:45
+## September 24, 2009 05:51:45: sql-dump for wp_links created September 24, 2009 05:51:45
+## September 24, 2009 05:51:46: sql-dump for wp_options created September 24, 2009 05:51:46
+## September 24, 2009 05:51:46: sql-dump for wp_postmeta created September 24, 2009 05:51:46
+## September 24, 2009 05:51:46: sql-dump for wp_posts created September 24, 2009 05:51:46
+## September 24, 2009 05:51:46: sql-dump for wp_term_relationships created September 24, 2009 05:51:46
+## September 24, 2009 05:51:46: sql-dump for wp_term_taxonomy created September 24, 2009 05:51:46
+## September 24, 2009 05:51:46: sql-dump for wp_terms created September 24, 2009 05:51:46
+## September 24, 2009 05:51:46: sql-dump for wp_usermeta created September 24, 2009 05:51:46
+## September 24, 2009 05:51:46: sql-dump for wp_users created September 24, 2009 05:51:46
+## September 24, 2009 05:51:46: SQL Dump created.
+## September 24, 2009 05:52:01: 117 Temporary Subdirectories copied sucessfully
+## September 24, 2009 05:52:01: 1030 Temporary Files copied sucessfully
+## September 24, 2009 05:52:21: Failed to change backup archive permissions /home/jabez7/public_html/qmagnets/blog/wp-content/backup/2009-09-24-05-51-45-full.tar.gz
+## September 24, 2009 05:52:21: Archive File created/compressed successfully: /home/jabez7/public_html/qmagnets/blog/wp-content/backup/2009-09-24-05-51-45-full.tar.gz
+## September 24, 2009 05:52:22: 1150 Temporary Directories and Files deleted successfully
+## September 24, 2009 05:52:22: No old BackUpWordPress Archives to delete
+## September 24, 2009 05:52:22: No old BackUpWordPress Log Files to delete
+## September 24, 2009 05:52:22: BackUpWordPress done at September 24, 2009 05:52:22
+## September 24, 2009 05:52:22: BackUpWordPress was running for 37.12 Seconds

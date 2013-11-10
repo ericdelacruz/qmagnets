@@ -1,0 +1,1 @@
+<meta name="description" content="Case studies presented at professional conferences on the application of Q magnets." /><meta name="keywords" content="Case studies, Q magnets, Qmagnets, MagnaBloc, Magna Bloc, Quadrabloc, magnets for pain, health magnets" /><title>Case Studies on Q magnets</title>

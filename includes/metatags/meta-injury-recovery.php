@@ -1,0 +1,3 @@
+<meta name="description" content="For injury recovery. Q magnets are a neuromagnetic device used by sports medical teams around the world to speed up injury recovery and treat chronic conditions." />
+<meta name="keywords" content="injury recovery, faster healing, magnets for pain, natural pain relief, health magnets, magnetic therapy, therapeutic magnets, Magna Bloc" />
+<title>Magnetic Therapy For Injury Recovery</title>

@@ -1,0 +1,1 @@
+<meta name="description" content="General information on magnets." /><meta name="keywords" content="Magnetic Therapy, magnets for pain, health magnets, therapeutic magnets" /><title>General information on magnets | Q magnets</title>
