@@ -41,7 +41,7 @@ if(file_exists("includes/metatags/meta-".basename($_SERVER['PHP_SELF']))) {
             </div>
             <div class="about_body_text_box">
               <h3><a href="bodymap.php">Your Pain</a> &gt;&gt; Q magnet Prescription for jaw pain:</h3>
-                  <p class="centeredImageLink"><a href="images/Slide21.jpg"><img src="../images/jawpain.gif" alt="Q magnet placement for jaw pain">
+                  <p class="centeredImageLink"><a href="images/Slide21.jpg"><img src="images/jawpain.gif" alt="Q magnet placement for jaw pain">
                     <br>Click image for more details.</a>
                   </p>                
                 <p>Q magnet devices can be placed over each temperomandibular joint. The temperomandibular

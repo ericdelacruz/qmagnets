@@ -50,18 +50,17 @@ color:#CCB363;
              
             </div>
             <br><br>
-            <div class="about_body_text_box" style="text-align:center">
-             <a href="images/Slide4.jpg"><img src="images/NS-3device.gif"></a>
-             <br><br>
-            <a href="images/Slide4.jpg" class="links">Click on image for more details.</a> 
-            <br><br>
-            <div style="text-align:justified; font-weight:bold">
-          
-           <br>
-           <div align="justify">
+            <div class="about_body_text_box">
+            <p class="centeredImageLink">
+              <a href="images/Slide4.jpg">
+                <img src="images/NS-3device.gif"><br>
+                Click on image for more details.
+              </a> 
+            </p>
+           <div>
            Neck and shoulder pain can be treated with Q magnet devices with a three or four magnet placement.
            <br><br>
-           <p align="left">Three Q magnet Placement:</p>
+           <p >Three Q magnet Placement:</p>
                      
 Find the bulge at the base of the neck, this is the 7th cervical vertebra. If you go just above the bulge, that is the space between the 6th and 7th cervical vertebrae. The  first device is placed approximately 40mm (1.5 inches) to the left of the midline. The second device is placed at the same level approximately 40mm (1.5 inches) to the right of midline.
   <br><br>
@@ -78,17 +77,17 @@ Find the bulge at the base of the neck, this is the 7th cervical vertebra. If yo
              <br>
             <a href="images/Slide5.jpg" class="links">Click on image for more details</a>
  			<br><br>
-            <p align="left">Four Q magnet Placement:</p>
+            <p >Four Q magnet Placement:</p>
             <br>
-<div align="justify">
+<div>
 Find the bulge at the base of the neck, this is the 7th cervical vertebra. If you go just above the bulge, that is the space between the 6th and 7th cervical vertebrae.The first device is placed approximately 40mm (1.5 inches) to the left of the midline. The second device is placed at the same level approximately 40mm (1.5 inches) to the right of midline.   
 </div>
 <br><br><br>
-<div align="justify">
+<div>
 To find the first and second placements at the base of the neck easily, place them to the right and left of the midline at the points that are tender when pressed. The third device is placed approximately 50mm (2 inches) above the bulge at the base of the neck at the 4th cervical vertebra. For most people, this level is usually the hairline. The fourth placement is midline below the bulge at the base of the neck
 </div>
 <br><br><br>
-<p align="left"><a href="http://qmagnets.com/blog/category/pain-testimonies/neck-pain" class="links">Click here for Q magnet testimonies for neck pain.</a></p>
+<p ><a href="http://qmagnets.com/blog/category/pain-testimonies/neck-pain" class="links">Click here for Q magnet testimonies for neck pain.</a></p>
 <br><br><br>
 <table width="100%" cellspacing="0" cellpadding="10" border="1">
   <tbody><tr>
@@ -118,24 +117,20 @@ To find the first and second placements at the base of the neck easily, place th
   </tr>
 </tbody></table>
   <br>
- <div align="left"> 
+ <div > 
   
 <h3>Note:</h3>
 <p>These are recommendations from neurologists and physiotherapists who have used
   Q magnets extensively in a clinical setting. See the <a href="products.php">Q magnets products page</a> for a description of each device, including the sizes and penetration depths. </p>
-<p>&nbsp;</p>
 <p>It is important  to get the right dose of magnetic field to the target tissue,  otherwise there will be little or no effect. This may require using the information supplied with your order and on this website with a bit of trial and error to achieve the optimal placement. The best results are usually achieved by seeing an appropriately trained health professional such as a doctor or physiotherapist using their own clinical reasoning and neural anatomy to find the most effective placements. </p>
-<p>&nbsp;</p>
 <p>As a general rule,  the larger  devices such as the <a href="buy-QF28-6.php">QF28-6</a> and <a href="buy-QF28-3.php">QF28-3</a> should be used centrally over the spine and over the larger deeper nerves
   such as the sciatic nerve, the smaller Q magnets such as the <a href="buy-QF20-3.php">QF20-3</a> and <a href="buy-QF15-2.php">QF15-2</a> should be used peripherally over areas such as the elbow and wrist and the smallest models <a href="buy-QF10-2.php">QF10-2</a>, <a href="buy-Q6-15.php">Q6-1.5</a> used on trigger points. With each pain episode, you may require a larger Q
   magnet and as the pain diminishes substitute with a smaller device to maintain your pain free state.</p>
-<p>&nbsp;</p>
 <p>The smaller devices such as the <a href="buy-QF20-2.php">QF20-2</a> have a lower profile, hence 
   may be more comfortable for daily use. The <a href="buy-Q6-15.php">Q6-1.5</a> is very small 
   and only requires a small round plaster to apply it to the body, hence it
   is very comfortable and inconspicuous to wear, but has a shallow penetration and
   a very small active surface area and is unlikely to be effective over the lower back or neck or the larger joints such as the hip, knee, shoulder, ankle and elbow. </p>
-<p>&nbsp;</p>
 <p>The largest Q magnet, the <a href="buy-OF50-3.php">OF50-3</a> has
   the advantage of covering a  larger active
   surface area (the active surface area of the Q magnet is  the boundary line between
@@ -143,7 +138,6 @@ To find the first and second placements at the base of the neck easily, place th
   is at its steepest) and penetrates to around 35mm or 1.4'. Whereas the <a href="buy-QF28-6.php">QF28-6</a> and <a href="buy-QF28-3.php">QF28-3</a> models cannot cover two adjacent spinal levels such as L4/5 and L5/S1 since they have to be separated by an inch or 2.5cm, the <a href="buy-OF50-3.php">OF50-3</a> can cover two adjacent levels which can make all the difference if required. </p>
 </div>
   
-</div>
              </div>
             <div class="left_bottom_img"><img src="images/body_left_bottom_img.jpg" alt="" border="0"></div>
             </div>

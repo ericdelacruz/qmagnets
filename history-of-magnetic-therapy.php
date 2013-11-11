@@ -72,18 +72,14 @@ if(file_exists("includes/metatags/meta-".basename($_SERVER['PHP_SELF']))) {
 
 
 <div class="history-footer">
-	<p>&nbsp;</p>
-	<p>&nbsp;</p>
 	
 	<h3>REFERENCES:</h3>
 	<p>Historical Perspective of Magnetism; From Thales to Lauterbur, or From the Loadstone to MR maging: Magnetism and Medicine. <a href="downloads/Radiology_1991_180_593-612.pdf"><strong>Radiology 1991; 180:593-612</strong></a>.</p>
 	<p>Magnetism in Medicine: A Handbook. <a href="downloads/The-History-of-Magnetism-in-Madicine.pdf"><strong>Chapter 1</strong></a></p>
 	
-	<p>&nbsp;</p><p>&nbsp;</p>
 	
 	<p>Click on the Order Now button below to place your order. </p>
 	<a href="products.php"><img src="images/order-now-button.gif" alt="Order Now" /></a>
-	<p>&nbsp;</p><p>&nbsp;</p>
 	
 	<p>Neuromagnetics Australia Pty Ltd manufactures and distributes the Quadrapolar or Qmagnet. </p>
 

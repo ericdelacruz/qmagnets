@@ -62,7 +62,7 @@
         </p>
         <p> For more intense knee pain, add a Q magnet above and below the knee in the joint spaces, again by feeling for the grooves at the top and bottom of the kneecap, while bending the knee back and forth. Placement should resemble a diamond shape around the kneecap. </p>
           <iframe width="420" height="315" src="http://www.youtube.com/embed/9rXQTt39KUk?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
-          <p class="centeredImageLink"><a href="../images/Slide2.jpg"><img src="../images/Slide2sm.jpg" alt="Lower back pain description for Q magnet therapy" class="placement"><br>
+          <p class="centeredImageLink"><a href="images/Slide2.jpg"><img src="images/Slide2sm.jpg" alt="Lower back pain description for Q magnet therapy" class="placement"><br>
             Click on image for more details.</a>
           </p>
         <p> In some cases it may also be necessary to treat centrally over the spine. All pain is first interpreted at the spine and the nerves that innovate the knee insert into the spine at L3. L4 is located at the same level as the waist and can be found by imagining a line joining either side, where it crosses the spine is L4. L3 is around 2cm above L4 or you may feel it as the next bony protrusion. Wear a Q magnet over L3 for a few days and monitor your condition, you may need to shift it slightly up or down to ensure you have the correct placement. </p>

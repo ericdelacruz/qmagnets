@@ -973,6 +973,8 @@ a.social_img_text:hover {
 	font-weight: normal;
 	color: #babab9;
 	text-align: left !important;
+	text-align: justify !important;
+
 	line-height: 150%;
 }
 

@@ -93,7 +93,7 @@ color:#CCB363;
   </tr>
   <tr>
     <td colspan="2">For best value purchase the <a href="products.php#QBP">Q  Bonus Package</a></td>
-    <td><a href="products.php#QBP"><img width="134" height="23" border="0" alt="add to cart" src="../images/cart.jpg"></a></td>
+    <td><a href="products.php#QBP"><img width="134" height="23" border="0" alt="add to cart" src="images/cart.jpg"></a></td>
   </tr>
 </tbody></table>
   <br>
