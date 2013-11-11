@@ -972,7 +972,17 @@ a.social_img_text:hover {
 	font-size: 14px;
 	font-weight: normal;
 	color: #babab9;
-	text-align: justify;
+	text-align: left !important;
+	line-height: 150%;
+}
+
+.about_body_text_box p{
+	padding: 15px 0 15px 0;	
+}
+
+.about_body_text_box img, .about_body_text_box embed, .about_body_text_box iframe{
+	margin: 0 auto;
+	display: block;
 }
 
 .about_body_text_box ul { list-style:none}
@@ -1837,7 +1847,11 @@ a.offline_text:hover {
 	text-align: justify;
 }
 
-a.links{
+.about_body_text_box a{
+	font-size: 14px;
+}
+
+/*a.links{
 	color:#CCB363;
 	font-size: 16px;
 	text-decoration:none
@@ -1845,9 +1859,9 @@ a.links{
 
 a.links-table{
 	color:#CCB363;
-	font-size: 12px;
+	font-size: 14px;
 	text-decoration:none
-}
+}*/
 
 #quotation{
 	color: #babab9;
@@ -2038,23 +2052,39 @@ a.links-table{
 	font-weight: normal;
 	color: #b2b2b2;	
 }
-.customNote p { text-align:justify;line-height: 150%;
-  margin-bottom: 16px;
+.customNote p {
+	text-align:justify;line-height: 150%;
+	margin-bottom: 16px;
  }
 
 .about_body_text_box h3 a{
 	font-size: 18px;
 }
 
-.centered{
+.centeredImageLink{
 	text-align: center;
+	margin-top: 10px;
 }
 
-.tablelist1 { border:1px solid #333; margin-bottom:20px; }
-.tablelist1 span { display:block; padding:5px 10px; }
-.tablelist1 thead { background:#333; }
-.tablelist1 thead span { font-weight:bold; text-transform:uppercase; }
+
+.tablelist1 { border:1px solid #333; margin: 30px 0; width: 100%;}
+.tablelist1 td { padding:5px 2px; }
+.tablelist1 thead { background:#333; text-align: center; font-weight:bold; text-transform:uppercase; }
+.tablelist1 thead>tr>td:first-child{ width: 80px }
+.tablelist1 thead>tr>td:last-child{ width: 190px }
 .tablelist1 tbody { background:#222; }
 .tablelist1 tbody tr { border-bottom:1px solid #333; }
 .tablelist1 tfoot { background:#121212 }
 
+.tablelist1 img{
+	display: inline;
+	vertical-align: bottom;
+	float: right;
+}
+/*
+.customContentStyle { }
+.customContentStyle h3 { margin-bottom:5px; }
+.customContentStyle p { ; margin-bottom:16px; }
+.customContentStyle ol { padding-left:30px; }
+.customContentStyle ol li { margin-bottom:5px; }
+*/

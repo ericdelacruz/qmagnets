@@ -214,7 +214,7 @@ Get Back to doing what you Love SOONER!
                 Dianne Hermans B.Phty, Senior Physiotherapist of 20 years.
               </div>
               <div id="content8Wrapper">
-                <a href="products.php#QF28-6"><img src="/images/Q-orientation-arrow.jpg" alt="Orientation Arrow"></a>
+                <a href="products.php#QF28-6"><img src="images/Q-orientation-arrow.jpg" alt="Orientation Arrow"></a>
                 <div id="content8">
                   <a href="products.php#QF28-6" target="_blank">QF28-6</a> showing the orientation arrow for correct placement.
                 </div>

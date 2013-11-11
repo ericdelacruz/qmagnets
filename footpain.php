@@ -12,13 +12,6 @@ if(file_exists("includes/metatags/meta-".basename($_SERVER['PHP_SELF']))) {
 	echo '<title>Qmagnets</title>';
 }
 ?>
-<style>
-.customContentStyle { }
-.customContentStyle h3 { margin-bottom:5px; }
-.customContentStyle p { line-height:150%; margin-bottom:16px; }
-.customContentStyle ol { padding-left:30px; }
-.customContentStyle ol li { margin-bottom:5px; }
-</style>
 </head>
 <body>
 <div id="main_area">
@@ -50,38 +43,40 @@ if(file_exists("includes/metatags/meta-".basename($_SERVER['PHP_SELF']))) {
 				<div id="cse-results" style="display: none;"></div><div class="body_left_text_area customContentStyle" id="static-content">
 <h3><a href="bodymap.php">Your Pain</a> &gt;&gt; Q magnet Prescription for Foot Pain:</h3>
 
-<div style="text-align:center;"><p><img src="images/footpain.gif" alt="Footpain" /></p><a href="images/Slide18.jpg">Click image for more details.</a></div>
-<p>&nbsp;</p>
+<p class="centeredImageLink">
+  <a href="images/Slide18.jpg">
+    <img src="images/footpain.gif" alt="Footpain" /><br>
+    Click image for more details.
+  </a>
+</p>
 <p>For the foot, the Q magnet devices should be placed over the area of discomfort. The device should not be worn inside shoes, but may be worn on top of shoes, as the depth of Q magnet field penetration is approximately 70mm (3 inches). Use a strong durable tape, such as sports tape, to secure the devices in place. Flexible sports bandages may also be wrapped around the shoe to keep the devices secure. Apply the devices at night, to the skin, directly over the area of discomfort. </p>
+<iframe width="480" height="360" src="http://www.youtube.com/embed/bVU2-bkFM0s" frameborder="0" allowfullscreen></iframe>
+<br>
+  <a href="http://www.qmagnets.com/blog/category/pain-testimonies/foot-pain">Click here for Q magnet testimonies for foot pain.</a>
 
-
-<p style="text-align:center;">  <iframe width="480" height="360" src="http://www.youtube.com/embed/bVU2-bkFM0s" frameborder="0" allowfullscreen></iframe></p>
-
-<p style="text-align:center"><a href="http://www.qmagnets.com/blog/category/pain-testimonies/foot-pain">Click here for Q magnet testimonies for foot pain.</a></p>
-
-<table class="tablelist1" cellspacing="0" cellpadding="0" width="100%">
+<table class="tablelist1">
 <thead>
  <tr>
-  <td width="25%"><span>Pain Level</span></td>
-  <td width="35%"><span>Order Quantity</span></td>
-  <td width="40%"><span>Shopping Cart</span></td>
+  <td>Pain Level</td>
+  <td>Order Quantity</td>
+  <td>Shopping Cart</td>
  </tr>
 </thead>
 <tbody>
  <tr>
-    <td><span>Severe</span></td>
-    <td><span>2 X QF28-3</span></td>
-    <td><span><a href="http://www.1shoppingcart.com/app/netcart.asp?MerchantID=96291&ProductID=3366288"><img src="images/cart.jpg" alt="Add to shopping cart" width="134" height="23" border="0" /></a> $118.00</td>
+    <td>Severe</td>
+    <td>2 X QF28-3</td>
+    <td> $118.00 <a href="http://www.1shoppingcart.com/app/netcart.asp?MerchantID=96291&ProductID=3366288"><img src="images/cart.jpg" alt="Add to shopping cart" width="134" height="23" border="0" /></a></td>
   </tr>
  <tr>
-    <td><span>Moderate</span></td>
-    <td><span>2 X QF20-2</span></td>
-    <td><span><a href="http://www.1shoppingcart.com/app/netcart.asp?MerchantID=96291&ProductID=3366365"><img src="images/cart.jpg" alt="Add to shopping cart" width="134" height="23" border="0" /></a> $60.00</span></td>
+    <td>Moderate</td>
+    <td>2 X QF20-2</td>
+    <td> $60.00 <a href="http://www.1shoppingcart.com/app/netcart.asp?MerchantID=96291&ProductID=3366365"><img src="images/cart.jpg" alt="Add to shopping cart" width="134" height="23" border="0" /></a></td>
   </tr>
 </tbody>
 <tfoot>
  <tr>
-  <td colspan="3"><span>Use smaller device to wear inside shoe.<br />For best value purchase the <a href="products.php">Q Bonus Package</a></span></td>
+  <td colspan="3">Use smaller device to wear inside shoe.<br />For best value purchase the <a href="products.php">Q Bonus Package</a></td>
  </tr>
 </tfoot>
 </table>

@@ -12,13 +12,6 @@ if(file_exists("includes/metatags/meta-".basename($_SERVER['PHP_SELF']))) {
 	echo '<title>Qmagnets</title>';
 }
 ?>
-<style>
-.customContentStyle { }
-.customContentStyle h3 { margin-bottom:5px; }
-.customContentStyle p { margin-bottom:16px; }
-.customContentStyle ol { padding-left:30px; }
-.customContentStyle ol li { margin-bottom:5px; }
-</style>
 </head>
 <body>
 <div id="main_area">
@@ -50,37 +43,35 @@ if(file_exists("includes/metatags/meta-".basename($_SERVER['PHP_SELF']))) {
 				<div id="cse-results" style="display: none;"></div><div class="body_left_text_area customContentStyle" id="static-content">
 <h3><a href="bodymap.php">Your Pain</a> &gt;&gt; Q magnet Prescription for tooth pain:</h3>
 
-<div style="text-align:center;"><p><img src="images/toothpain.gif" alt="Toothpain" /></p><a href="images/Slide20.jpg">Click image for more details.</a></div>
-<p>&nbsp;</p>
+<p class="centeredImageLink">
+  <a href="images/Slide20.jpg"><img src="images/toothpain.gif" alt="Toothpain" /><br>Click image for more details.</a>
+</p>
 <p>Q magnets are particularly helpful after wisdom tooth extraction. Place the center of the Q magnet device over the area where the affected tooth is attached to the gum over the nerve root. </p>
 <p>Click here for prescription for <a href="trigeminalneuralgia.php">TMJ pain or trigeminal neuralgia</a>.</p>
 <p><a href="http://www.qmagnets.com/blog/category/pain-testimonies/tooth-pain">Click here for Q magnet testimonies for tooth pain.</a></p>
-
-
-
-<table class="tablelist1" cellspacing="0" cellpadding="0" width="100%">
+<table class="tablelist1">
 <thead>
  <tr>
-  <td width="25%"><span>Pain Level</span></td>
-  <td width="35%"><span>Order Quantity</span></td>
-  <td width="40%"><span>Shopping Cart</span></td>
+  <td>Pain Level</td>
+  <td>Order Quantity</td>
+  <td>Shopping Cart</td>
  </tr>
 </thead>
 <tbody>
  <tr>
-    <td><span>Severe</span></td>
-    <td><span>1 X QF28-3 per tooth</span></td>
-    <td><span><a href="http://www.1shoppingcart.com/app/netcart.asp?MerchantID=96291&ProductID=3366292"><img src="images/cart.jpg" alt="Add to shopping cart" width="134" height="23" border="0" /></a> $59.00 </td>
+    <td>Severe</td>
+    <td>1 X QF28-3 per tooth</td>
+    <td> $59.00 <a href="http://www.1shoppingcart.com/app/netcart.asp?MerchantID=96291&ProductID=3366292"><img src="images/cart.jpg" alt="Add to shopping cart" width="134" height="23" border="0" /></a></td>
   </tr>
  <tr>
-    <td><span>Moderate</span></td>
-    <td><span>1 X QF20-2 per tooth</span></td>
-    <td><span><a href="http://www.1shoppingcart.com/app/netcart.asp?MerchantID=96291&ProductID=3366293"><img src="images/cart.jpg" alt="Add to shopping cart" width="134" height="23" border="0" /></a> $33.00</span></td>
+    <td>Moderate</td>
+    <td>1 X QF20-2 per tooth</td>
+    <td> $33.00 <a href="http://www.1shoppingcart.com/app/netcart.asp?MerchantID=96291&ProductID=3366293"><img src="images/cart.jpg" alt="Add to shopping cart" width="134" height="23" border="0" /></a></td>
   </tr>
 </tbody>
 <tfoot>
  <tr>
-  <td colspan="3"><span>For best value purchase the <a href="products.php">Q Bonus Package</a></span></td>
+  <td colspan="3">For best value purchase the <a href="products.php">Q Bonus Package</a></span></td>
  </tr>
 </tfoot>
 </table>
@@ -93,7 +84,6 @@ if(file_exists("includes/metatags/meta-".basename($_SERVER['PHP_SELF']))) {
 <p><strong>The best part of owning the magnets is that they NEVER wear out (no expiry date), they can be lent to other family members, are not a risk if handled by small children, and only need a brief time to actually start working on the individuals own body - far faster than other commercial painkillers. </strong></p>
 <p>It does not matter where I travel in the world, I take "my painkillers" (magnets) with me in my luggage, knowing that I can pass through Customs etc without any problems." </p>
 <p>Elizabeth Bradfield Cleveland, Queensland</p>
-<p>&nbsp;</p>
 
 <h3>Note:</h3>
 <p>These are recommendations from neurologists and physiotherapists who have used Q magnets extensively in a clinical setting. See the <a href="products.php">Q magnets products page</a> for a description of each device, including the sizes and penetration depths. </p>

@@ -65,7 +65,7 @@ a {
         <area shape="rect" coords="94,178,147,200" href="abdominalpain.php">
         <area shape="rect" coords="185,153,220,169" href="elbow.php">
         <area shape="rect" coords="302,95,360,119" href="upperback.php">
-        <area shape="rect" coords="353,59,426,82" href="neckpain.php">
+        <area shape="rect" coords="353,59,426,82" href="neckshoulder.php">
         <area shape="rect" coords="214,86,277,103" href="shoulderpain.php">
         <area shape="rect" coords="62,52,107,75" href="jawpain.php">
         <area shape="rect" coords="138,50,170,71" href="toothpain.php">

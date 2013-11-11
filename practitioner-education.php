@@ -48,7 +48,7 @@ if(file_exists("includes/metatags/meta-".basename($_SERVER['PHP_SELF']))) {
                 Image below: A Q magnet as seen through a green magnet viewer:
               </p>
               <div id="contentWrapperPracEdu1">
-                <img src="/images/TL09QUADRAPOLE_SINGLE_MAGLINESwebNS.jpg">
+                <img src="images/TL09QUADRAPOLE_SINGLE_MAGLINESwebNS.jpg">
                 <div id="contentPracEdu1">
                   The single magnetic body has been magnetised with four alternating quadrants. While the precise mechanism of action is unknown, studies have shown that the most biologically effective region is located at the boundary between adjacent poles <a href="downloads/Pub-Phosph.pdf" target="_blank">Engstrom et al., 2002</a>; <a href="downloads/Pub-TreatPain.pdf" target="_blank">McLean et al., 2002)</a>, where the field gradient is steepest.
                   <br/><br/>

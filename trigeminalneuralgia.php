@@ -63,7 +63,7 @@ Bevely and Julie have both found that the magnets help in minimising hyperactivi
 <table class="tablelist1" cellspacing="0" cellpadding="0" width="100%">
 <thead>
  <tr>
-  <td width="25%"><span>Pain Level</span></td>
+  <td><span>Pain Level</span></td>
   <td width="30%"><span>Order Quantity</span></td>
   <td width="45%"><span>Shopping Cart</span></td>
  </tr>
