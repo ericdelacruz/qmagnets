@@ -31,10 +31,10 @@
 $(function() {
 $(".newsticker-jcarousellite").jCarouselLite({
         vertical: true,
-        visible: 3,
+        visible: 1,
         auto:500,
-        speed:1500,
-		 hoverPause: true
+        speed:2500,
+		    hoverPause: true
 		
     });
 });
@@ -64,7 +64,7 @@ $(".newsticker-jcarousellite").jCarouselLite({
                 <div class="newsticker-jcarousellite"> 
                 
                 <ul> 
-               <li>
+              <li>
     			  <div class="press_room_box" >
                 <div class="press_room_img_area"> 
                   <div class="press_room_text_con">
@@ -133,16 +133,15 @@ $(".newsticker-jcarousellite").jCarouselLite({
                 </div>       
                 </div>
                 </li>   
-               
-               <li>
+                  <li>
     			  <div class="press_room_box" >
                 <div class="press_room_img_area"> 
                   <div class="press_room_text_con">
-                  International Society of Electrophysiology & Kinesiology (ISEK)<br>
+                  <a href="http://daddyspeak.com/isek-conference-2012">International Society of Electrophysiology & Kinesiology (ISEK)</a><br>
 					19th Congress; "Neuroplasticity, Motor Control, Cutting-Edge Technology"<br>
-					Brisbane. July, 2012 LINK                   
-                  <br><br>
-                  <a href="http://daddyspeak.com/isek-conference-2012">daddyspeak.com/isek-conference-2012</a></div>
+					Brisbane. July, 2012 
+          <br>
+                  <!-- daddyspeak.com/isek-conference-2012 --></div>
                 </div>       
                 </div>
               </li>
@@ -152,27 +151,27 @@ $(".newsticker-jcarousellite").jCarouselLite({
                 <div class="press_room_img_area">
                   
                   <div class="press_room_text_con">
-                  World Association for Laser Therapy (WALT)<br>
+                   <a href="http://www.walt2012.com/">World Association for Laser Therapy (WALT)</a><br>
 					The Spectrum of Laser<br>
-					Gold Coast, August, 2012 LINK                  
-                  <br><br>
-                  <a href="http://www.walt2012.com/">www.walt2012.com/</a></div>
+					Gold Coast, August, 2012                  
+                  <br>
+                <!--  www.walt2012.com< --></div>
                 </div>       
                 </div>
-            </li>
-            
-            <li>
+            </li> 
+              <li>
              <div class="press_room_box">
                 <div class="press_room_img_area">
                   
                   <div class="press_room_text_con">
-                  Australian Integrative Medicine Association (AIMA)<br>
-18th International Integrative Medicine Conference<br>
-"Bridging The Gap" <br>
-Melbourne. September, 2012 LINK
+                   <a href="https://www.aima.net.au/wp-content/uploads/2012/05/AIMA-18th-International.pdf">Australian Integrative Medicine Association (AIMA)</a>
+                   <br>
+                  18th International Integrative Medicine Conference
+                  "Bridging The Gap" <br>
+                  Melbourne. September, 2012
                   
-                  <br><br>
-                  <a href="https://www.aima.net.au/wp-content/uploads/2012/05/AIMA-18th-International.pdf">www.aima.net.au/wp-content/uploads/2012/05/AIMA-18th-International.pdf</a></div>
+                  <br>
+                <!--  www.aima.net.au/wp-content/uploads/2012/05/AIMA-18th-International.pdf --></div>
                 </div>       
                 </div>
            </li>
@@ -183,29 +182,61 @@ Melbourne. September, 2012 LINK
                 <div class="press_room_img_area">
                   
                   <div class="press_room_text_con">
-                Australian Medical Acupuncture College<br>
+                <a href="http://www.panpacificmedicalacupunctureforum.org.au/">Australian Medical Acupuncture College</a><br>
 6th Pan Pacific Medical Acupuncture Forum<br>
-Gold Coast. November, 2012 LINK<br>
+Gold Coast. November, 2012<br>
                 
-                  <br><br>
-                  <a href="http://www.panpacificmedicalacupunctureforum.org.au/">www.panpacificmedicalacupunctureforum.org.au/</a></div>
+                  <br>
+                  <!-- www.panpacificmedicalacupunctureforum.org.au/ --></div>
                 </div>       
                 </div>
              </li>
-             
             <li>  
              <div class="press_room_box">
                 <div class="press_room_img_area">
                   
                   <div class="press_room_text_con">
-                 Australian Chiropractic Association <br>
+                  <a href="http://spinalresearch.com.au/Events/DynamicGrowthCongress2013/DynamicGrowthCongress2013Venue/tabid/392/language/en-US/Default.aspx">Australian Chiropractic Association </a><br>
 Dynamic Growth Conference <br>
-Brisbane. February, 2013 LINK
+Brisbane. February, 2013
                   
-                  <br><br>
-                  <a href="http://spinalresearch.com.au/Events/DynamicGrowthCongress2013/DynamicGrowthCongress2013Venue/tabid/392/language/en-US/Default.aspx">spinalresearch.com.au/Events/DynamicGrowthCongress2013</a></div>
+                  <br>
+                 spinalresearch.com.au/Events/DynamicGrowthCongress2013</div>
                 </div>       
                 </div>
+                </li>
+
+                <li>  
+                 <div class="press_room_box">
+                    <div class="press_room_img_area">
+                      
+                      <div class="press_room_text_con">
+                        <a href="https://www.aima.net.au/wp-content/uploads/2013/06/AIMA-Conference-program-final.pdf">Australian Integrative Medicine Association (AIMA)</a><br>
+                        19th International Integrative Medicine Conference <br>
+                        “Building The Bridge”<br>
+                        Gold Coast, October, 2013<br>
+                        
+                        <br>
+                       <!--  aima.net.au/wp-content/uploads/2013/06/AIMA-Conference-program-final.pdf -->
+                      </div>
+                     </div>       
+                  </div>
+                </li>
+
+                <li>  
+                 <div class="press_room_box">
+                    <div class="press_room_img_area">
+                      
+                      <div class="press_room_text_con">
+                        <a href="http://www.amac.org.au/">Australian Medical Acupuncture College</a><br>
+                        Scientific Meeting – “Beyond Needles”<br>
+                       Sydney, November 2013<br>
+                        
+                        <br>
+                       <!--  amac.org.au/  -->
+                      </div>
+                     </div>       
+                  </div>
                 </li>
                 
                 </ul>
