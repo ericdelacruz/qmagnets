@@ -99,7 +99,7 @@ Bevely and Julie have both found that the magnets help in minimising hyperactivi
 <p>God bless you and grant you the best of everything.</p>
 
 <h3>This is the story as told by Bob Davies from Queensland, Australia.</h3>
-<img src="images/BobDavies.jpg" alt="Bob Davies" class="imgLeft" />
+<img src="images/BobDavies.jpg" alt="Bob Davies" class="imgLeft imgSizeSmall imgPadRight" />
 <p>I am a 47 yr old man who was diagnosed with MS IN 1994 [about 15 yrs ago]  My MS is the secondary proggressive type so I dont experience regular exacerbations, just a steady decline.  Although using a wheelchair for the last 10 years I still spend about 1 hr in the pool every day and try to keep as fit as possible. </p>
 <p>About 2 yrs ago I started to experience severe pain shooting upwards from my upper RH row of teeth, so to the dentist I went, to be told, there is no dental reason for the pain.  GP  visit followed, where I was given painkillers & referred to a Neurologist.  Meanwhile I had done as much research on TMJ pain on the net as I could and when the specialist suggested cutting the facial nerves I thought, there must be a better way. </p>
 <p>Fortunately there was a physio at the same practice as my GP so I went to see him.  He supported my suggestion of magnet therapy so I bought 2 of the 2nd largest magnets that Q magnets supply [I lived less than 5 km from Dianne's practice] and in fact, been there for physio on ankle previously].  I already had a splint to wear at night supplied by a dentist, and as soon as I began to wear the magnets taped over the TMJ joint I experienced immediate pain relief.</p>
