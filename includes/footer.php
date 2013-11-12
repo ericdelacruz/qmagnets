@@ -14,7 +14,7 @@
 
      		<img src="images/footer_bullet.jpg" alt="" width="2" height="11" border="0"> 
 
-        	<a href="blog" class="footer_nav_link">Blog</a>
+        	<a href="http://qmagnets.com/blog/" class="footer_nav_link">Blog</a>
 
      		<img src="images/footer_bullet.jpg" alt="" width="2" height="11" border="0"> 
 

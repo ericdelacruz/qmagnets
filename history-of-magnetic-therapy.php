@@ -12,13 +12,6 @@ if(file_exists("includes/metatags/meta-".basename($_SERVER['PHP_SELF']))) {
 	echo '<title>Qmagnets</title>';
 }
 ?>
-<style>
-.customContentStyle { }
-.customContentStyle h3 { margin-bottom:5px; }
-.customContentStyle p { line-height:150%; margin-bottom:16px; }
-.customContentStyle ol { padding-left:30px; }
-.customContentStyle ol li { margin-bottom:5px; }
-</style>
 </head>
 <body>
 <div id="main_area">
@@ -54,7 +47,7 @@ if(file_exists("includes/metatags/meta-".basename($_SERVER['PHP_SELF']))) {
 <p>As this research was being made public, opportunistic companies looking to exploit the market began sourcing and selling the cheapest and most common magnet available, that being the bipolar magnet. The same promising research into non-uniform or inhomogeneous magnetic fields from pulsed magnetic fields, multipolar magnets and quadrapolar magnets was also showing that the uniform or homogeneous magnetic fields produced by the common bipolar magnets did have the same effects.</p>
 <p>It is unfortunate that large quantities of common bipolar magnets have been sold to an unsuspecting public piggy backing off credible research. Since bipolar magnets have only a minor therapeutic effect this has certainly tainted other credible medical devices such as Q magnets. </p>				
 <p> Magnets were used and studied by some of the great doctors of yesteryear including the 16th century doctor William Gilbert who was president of the Royal College of Physicians and personal physician to Queen Elizabeth I. In fact Gilbert wrote what is widely regarded as the beginning of modern science and electricity, a book called De Magnete.</p>				
-<p><img src="images/Mesmer.jpg" alt="Anton Mesmer" class="imgLeft" /><strong>Anton Mesmer</strong><br /> A pivital character in the history of magnetic therapy is the famous Austrian Physician, Franz Anton Mesmer who did extensive work on the use of magnets and developed a theory concerning the body’s own magnetic energy which he coined animal magnetism. Mesmer’s work fell into disrepute by the French medical establishment. He thought he possessed a powerful animal magnetism and that through it he could heal people by touch or even waving his hand over a crowd. These types of practices by Mesmer are the origins of the word mesmerize. Mud sticks and unfortunately Mesmer's antics placed such a stigma on magnets as a credible therapy worthy of investigation, other works in the therapeutic use of magnets were largely ignored. </p>				
+<p><img src="images/Mesmer.jpg" alt="Anton Mesmer" class="imgLeft imgSizeSmall imgPadRight" /><strong>Anton Mesmer</strong><br /> A pivital character in the history of magnetic therapy is the famous Austrian Physician, Franz Anton Mesmer who did extensive work on the use of magnets and developed a theory concerning the body’s own magnetic energy which he coined animal magnetism. Mesmer’s work fell into disrepute by the French medical establishment. He thought he possessed a powerful animal magnetism and that through it he could heal people by touch or even waving his hand over a crowd. These types of practices by Mesmer are the origins of the word mesmerize. Mud sticks and unfortunately Mesmer's antics placed such a stigma on magnets as a credible therapy worthy of investigation, other works in the therapeutic use of magnets were largely ignored. </p>				
 
 <h3>Stokes and Bell</h3>
 <p>For example, in 1842, Stokes and Bell (Stokes of Stokes Adam syndrome fame and Bell of Bells Palsy fame) treated a patient with shoulder pain with a very powerful 20 pound magnet and reported the patient experienced relief and restoration. They published cases such as these in a very famous two-volume treatise called Lectures on the Theory and Practice of Physics.</p>				

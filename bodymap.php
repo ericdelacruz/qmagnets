@@ -73,10 +73,10 @@ a {
       </map>
       <br>
       <br>
-      See <a href="#" style="font-size: 14px; color:#CCB363; text-decoration:none">Your Conditions </a>for Q magnet prescriptions for certain conditions. <br>
+      See <a href="conditions.php" style="font-size: 14px; color:#CCB363; text-decoration:none">Your Conditions </a>for Q magnet prescriptions for certain conditions. <br>
       <br>
       <br>
-      <a href="#" style="font-size: 14px; color:#CCB363; text-decoration:none" >Please see tips for looking after skin when applying Qmagnets - FAQ.</a> </div>
+      <a href="faq.php" style="font-size: 14px; color:#CCB363; text-decoration:none" >Please see tips for looking after skin when applying Qmagnets - FAQ.</a> </div>
     <div class="left_bottom_img"><img src="images/body_left_bottom_img.jpg" alt="" border="0"></div>
   </div>
 </div>

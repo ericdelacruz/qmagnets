@@ -43,70 +43,70 @@ if(file_exists("includes/metatags/meta-".basename($_SERVER['PHP_SELF']))) {
               <div class="res_body_left_text_area"><h2>Q magnet Prescription for trigeminal neuralgia:</h2><br>
               The following are links to articles and reports available in the public domain that relate to research and reports into magnetic therapy from credible agencies such as universities and government bodies.
               </div>
-              <div class="res_list_box">
-                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <table class="tablelist2">
+                    <thead>
+                      <tr>
+                      <td>Publication</td>
+                      <td>Summary</td>
+                      <td> Link</td>
+                    </tr>
+                  </thead>
                   <tr>
-                    <td align="left" valign="top" class="res_box_heading">Publication</td>
-                    <td width="250" align="left" valign="top" class="res_box_heading1">Summary</td>
-                    <td width="75" align="left" valign="top" class="res_box_heading2"> Link</td>
-                  </tr>
-                  <tr>
-                    <td align="left" valign="top" class="res_box_no_text">Static Fields by WHO</td>
-                    <td align="left" valign="top" class="res_box_no_text1">A 369 page in depth report on static magnets
+                    <td >Static Fields by WHO</td>
+                    <td>A 369 page in depth report on static magnets
                       including field gradients</td>
-                    <td align="left" valign="top" class="res_box_no_text2"><a href="downloads/Environmental-Health-Criteria-Static-Fields.pdf">Get PDF</a></td>
+                    <td><a href="downloads/Environmental-Health-Criteria-Static-Fields.pdf">Get PDF</a></td>
                   </tr>
                   <tr>
-                    <td align="left" valign="top" class="res_box_no_text">The International Commission on
+                    <td>The International Commission on
                       Non-Ionizing Radiation Protection
                       (2009) by WHO</td>
-                    <td align="left" valign="top" class="res_box_no_text1">WHO report on safe exposure to magnetic
+                    <td>WHO report on safe exposure to magnetic
                       fields. In summary, exposure below 2 Tesla or
                       20,000 Gauss was deemed to be safe for
                       humans</td>
-                    <td align="left" valign="top" class="res_box_no_text2"><a href="downloads/ICNIRP-guidelines-on-limits-of-exposure-to-static-magnetic-fields-2009.pdf">Get PDF</a></td>
+                    <td><a href="downloads/ICNIRP-guidelines-on-limits-of-exposure-to-static-magnetic-fields-2009.pdf">Get PDF</a></td>
                   </tr>
                   <tr>
-                    <td align="left" valign="top" class="res_box_no_text">National Center for Complementary
+                    <td>National Center for Complementary
                       and Alternative Medicine (2005)
                       research report into magnetic therapy.</td>
-                    <td align="left" valign="top" class="res_box_no_text1">Questions and Answers About Using Magnets
+                    <td>Questions and Answers About Using Magnets
                       To Treat Pain. This report reveals how little
                       they understand about therapeutic magnets
                       as they do not even mention magnetic field
                       gradients</td>
-                    <td align="left" valign="top" class="res_box_no_text2"><a href="downloads/NCCAM-questions-and-answers-about-using-magnets-to-treat-pain.pdf">Get PDF</a></td>
+                    <td><a href="downloads/NCCAM-questions-and-answers-about-using-magnets-to-treat-pain.pdf">Get PDF</a></td>
                   </tr>
                   <tr>
-                    <td align="left" valign="top" class="res_box_no_text">Health Effects of Exposure to EMF by
+                    <td>Health Effects of Exposure to EMF by
                       Scientific Committee on Emerging and
                       Newly Identified Health Risks</td>
-                    <td align="left" valign="top" class="res_box_no_text1">A 2009 report on health effects of both
+                    <td>A 2009 report on health effects of both
                       electromagnetic and static magnetic fields.</td>
-                    <td align="left" valign="top" class="res_box_no_text2"><a href="downloads/Health-effects-of-exposure-to-EMF.pdf">Get PDF</a></td>
+                    <td><a href="downloads/Health-effects-of-exposure-to-EMF.pdf">Get PDF</a></td>
                   </tr>
                   <tr>
-                    <td align="left" valign="top" class="res_box_no_text">Historical Perspective of Magnetism;
+                    <td>Historical Perspective of Magnetism;
                       From Thales to Lauterbur, or From the
                       Loadstone to MR maging: Magnetism
                       and Medicine.</td>
-                    <td align="left" valign="top" class="res_box_no_text1">From - Radiology 1991; 180:593-612.</td>
-                    <td align="left" valign="top" class="res_box_no_text2"><a href="downloads/Radiology_1991_180_593-612.pdf">Get PDF</a></td>
+                    <td>From - Radiology 1991; 180:593-612.</td>
+                    <td><a href="downloads/Radiology_1991_180_593-612.pdf">Get PDF</a></td>
                   </tr>
                   <tr>
-                    <td align="left" valign="top" class="res_box_no_text">Magnetism in Medicine: A Handbook</td>
-                    <td align="left" valign="top" class="res_box_no_text1">PDF includes the first chapter on the History
+                    <td>Magnetism in Medicine: A Handbook</td>
+                    <td>PDF includes the first chapter on the History
                       of Magnetism</td>
-                    <td align="left" valign="top" class="res_box_no_text2"><a href="downloads/The-History-of-Magnetism-in-Madicine.pdf">Get PDF</a></td>
+                    <td><a href="downloads/The-History-of-Magnetism-in-Madicine.pdf">Get PDF</a></td>
                   </tr>
                   <tr>
-                    <td align="left" valign="top" class="res_box_no_text">Many other full research papers and links to abstracts</td>
-                    <td align="left" valign="top" class="res_box_no_text1">Available on the Q magnet website</td>
-                    <td align="left" valign="top" class="res_box_no_text2"><a href="magnetic-therapy-relevant-research.php">Go</a></td>
+                    <td>Many other full research papers and links to abstracts</td>
+                    <td>Available on the Q magnet website</td>
+                    <td><a href="magnetic-therapy-relevant-research.php">Go</a></td>
                   </tr>
                 </table>
               
-              </div>
             </div>
             <div class="left_bottom_img"><img src="images/body_left_bottom_img.jpg" alt="" border="0"></div>
             </div>
