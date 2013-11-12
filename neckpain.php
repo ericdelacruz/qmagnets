@@ -45,12 +45,14 @@ color:#CCB363;
          <div class="body_box">
           <div class="body_left_area">
           <div class="body_text_area">
-            <div class="body_heading_bg_big">
-              <h1><a href="bodymap.php">Your Pain</a>  >> Q magnet Prescription for neck and shoulder pain:</h1>
+
+            <div class="body_heading_bg">
+              <h1>Neck and Shoulder Pain</h1>
              
             </div>
             <br><br>
             <div class="about_body_text_box">
+              <h3><a href="bodymap.php">Your Pain</a>  >> Q magnet Prescription for neck and shoulder pain:</h3>
             <p class="centeredImageLink">
               <a href="images/Slide4.jpg">
                 <img src="images/NS-3device.gif"><br>
