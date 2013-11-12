@@ -47,7 +47,7 @@ color:#CCB363;
           <div class="body_text_area">
 
             <div class="body_heading_bg">
-              <h1>Neck Pain</h1>
+              <h1>Neck and Shoulder Pain</h1>
              
             </div>
             <br><br>
