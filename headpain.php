@@ -18,7 +18,11 @@ color:#CCB363;
 	font-size: 12px;
 	text-decoration:none
 }
-
+.customContentStyle { }
+.customContentStyle h3 { margin-bottom:5px; }
+.customContentStyle p { line-height:150%; margin-bottom:16px; }
+.customContentStyle ol { padding-left:30px; }
+.customContentStyle ol li { margin-bottom:5px; }
 </style>
 
 </head>
@@ -50,8 +54,8 @@ color:#CCB363;
              
             </div>
             <br><br>
-            <div class="about_body_text_box">
-              <p class="centeredImageLink">
+            <div class="about_body_text_box"><div class="body_left_text_area customContentStyle">
+              <p class="centered ImageLink">
                 <a href="images/Slide22.jpg">
                   <img src="images/headpain.gif">
                   <br>
@@ -65,54 +69,39 @@ color:#CCB363;
                 <br><br>
                 See the beginning of the <a href="#" >Good Medicine </a>program which shows a patient being treated for migraines. 
              </p>
-               <iframe width="420" height="315" src="http://www.youtube.com/embed/gb4IOsc-I00?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+               <div class="centered"><iframe width="420" height="315" src="http://www.youtube.com/embed/gb4IOsc-I00?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
                
                <p> <a href="http://qmagnets.com/blog/category/condition-testimonies/headache" > Click here for Q magnet testimonies for headaches.</a></p>
-              <table class="tablelist1">
+			   </div>
+              <table class="tablelist1" width="100%">
                 <thead><tr>
-                  <td>Pain Level </td>
-                  <td>Order Quantity</td>
-                  <td>Shopping Cart</td>
+                  <td><span>Pain Level </span></td>
+                  <td><span>Order Quantity</span></td>
+                  <td><span>Shopping Cart</span></td>
                 </tr>
               </thead>
               <tbody>
                 <tr>
-                  <td>Severe </td>
-                  <td>2 X QF28-3</td>
-                  <td><a href="http://www.qmagnets.com/buy-QF28-3.php"><img width="134" height="23" border="0" alt="" src="images/cart.jpg"></a></td>
+                  <td><span>Severe </span></td>
+                  <td><span>2 X QF28-3</span></td>
+                  <td><span><a href="http://www.qmagnets.com/buy-QF28-3.php"><img width="134" height="23" border="0" alt="" src="images/cart.jpg"></a></span></td>
                 </tr>
                 <tr>
-                  <td>Mild</td>
-                  <td>1  X Q6-1.5 6 Pack</td>
-                  <td><a href="http://www.qmagnets.com/buy-Q6-15.php"><img width="134" height="23" border="0" alt="" src="images/cart.jpg"></a></td>
+                  <td><span>Mild</span></td>
+                  <td><span>1  X Q6-1.5 6 Pack</span></td>
+                  <td><span><a href="http://www.qmagnets.com/buy-Q6-15.php"><img width="134" height="23" border="0" alt="" src="images/cart.jpg"></a></span></td>
                 </tr>
                 </tbody>
                 <tfoot>
                 <tr>
-                  <td colspan="2">For best value purchase the <a href="products.php#QBP">Q  Bonus Package</a></td>
-                  <td><a href="products.php#QBP"><img width="134" height="23" border="0" alt="add to cart" src="images/cart.jpg"></a></td>
+                  <td colspan="3"><span>For best value purchase the <a href="products.php#QBP">Q  Bonus Package</a></span></td>
                 </tr>
                 </tfoot>
               </table>
                 <br>
-               <h3> Note:</h3>
-               
-               <p>
-                These are recommendations from neurologists and physiotherapists who have used Q magnets extensively in a clinical setting. <a href="">See the Q magnets products page </a>for a description of each device, including the sizes and penetration depths.
-              </p>
-               <p>
-                 It is important  to get the right dose of magnetic field to the target tissue,  otherwise there will be little or no effect. This may require using the information supplied with your order and on this website with a bit of trial and error to achieve the optimal placement. The best results are usually achieved by seeing an appropriately trained health professional such as a doctor or physiotherapist using their own clinical reasoning and neural anatomy to find the most effective placements.
-              </p>
-              <p>
-                As a general rule, the larger devices such as the <a href="">QF28-6</a>and <a href="">QF28-3</a> should be used centrally over the spine and over the larger deeper nerves such as the sciatic nerve, the smaller Q magnets such as the <a href="">QF20-3</a> and <a href="">QF15-2</a> should be used peripherally over areas such as the elbow and wrist and the smallest models <a href="">QF10-2</a>,<a href=""> Q6-1.5</a> used on trigger points. With each pain episode, you may require a larger Q magnet and as the pain diminishes substitute with a smaller device to maintain your pain free state.
-              </p>
-              <p>
-                The smaller devices such as the<a href="">QF20-2</a> have a lower profile, hence may be more comfortable for daily use. The <a href="">Q6-1.5</a> is very small and only requires a small round plaster to apply it to the body, hence it is very comfortable and inconspicuous to wear, but has a shallow penetration and a very small active surface area and is unlikely to be effective over the lower back or neck or the larger joints such as the hip, knee, shoulder, ankle and elbow.
-              </p>
-              <p>
-                The largest Q magnet, the <a href="">OF50-3</a> has the advantage of covering a larger active surface area (the active surface area of the Q magnet is the boundary line between the alternating poles, this is where the magnetic field gradient is at its steepest) and penetrates to around 35mm or 1.4'. Whereas the <a href="">QF28-6</a> and <a href="">QF28-3</a> models cannot cover two adjacent spinal levels such as L4/5 and L5/S1 since they have to be separated by an inch or 2.5cm, the <a href="">OF50-3</a> can cover two adjacent levels which can make all the difference if required. 
-              </p>
+				<?php include('includes/note.php'); ?>
   
+             </div>
              </div>
             <div class="left_bottom_img"><img src="images/body_left_bottom_img.jpg" alt="" border="0"></div>
             </div>
