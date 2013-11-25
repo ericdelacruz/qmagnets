@@ -12,6 +12,13 @@ if(file_exists("includes/metatags/meta-".basename($_SERVER['PHP_SELF']))) {
 	echo '<title>Qmagnets</title>';
 }
 ?>
+<style>
+.customContentStyle { }
+.customContentStyle h3 { margin-bottom:5px; }
+.customContentStyle p { line-height:150%; margin-bottom:16px; }
+.customContentStyle ol { padding-left:30px; }
+.customContentStyle ol li { margin-bottom:5px; }
+</style>
 </head>
 <body>
 <div id="main_area">
