@@ -128,7 +128,7 @@ if(file_exists("includes/metatags/meta-".basename($_SERVER['PHP_SELF']))) {
 		<param name="quality" value="high" />
 		<embed src="/swf/Qmagnets ProH.swf" width="250" height="190" align="absmiddle" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash"></embed>
 		</object>
-	</div>
+	</div> 
    </td>
   </tr>
   

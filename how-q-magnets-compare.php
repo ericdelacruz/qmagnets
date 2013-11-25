@@ -12,6 +12,13 @@ if(file_exists("includes/metatags/meta-".basename($_SERVER['PHP_SELF']))) {
 	echo '<title>Qmagnets</title>';
 }
 ?>
+<style>
+.customContentStyle { }
+.customContentStyle h3 { margin-bottom:5px; }
+.customContentStyle p { line-height:150%; margin-bottom:16px; }
+.customContentStyle ol { padding-left:30px; }
+.customContentStyle ol li { margin-bottom:5px; line-height:140% }
+</style>
 </head>
 <body>
 <div id="main_area">
@@ -50,7 +57,7 @@ if(file_exists("includes/metatags/meta-".basename($_SERVER['PHP_SELF']))) {
 <ol>
 	<li>They are a Quadrapolar magnet with four alternating poles within the one magnetic body and have been designed this way to produce <a href="magnetic-field-gradients.php">steep magnetic field gradients</a>. The research shows that it is not the magnetic field strength that is the determining factor in alleviating pain, but the field gradient. </li>
 	<li>They combine some of the strongest static magnet material available, neodymium rare earth with a 1.3 Tesla rating with the latest magnetising techniques to produce a compact but extremely strong therapeutic magnet that penetrates a stronger field gradient deeper into the body. </li>
-	<li>The outer side has a flux shield attached which is made of high grade magnetic stainless steel which drives the field deeper into the body and further enhances the field gradient. Qmagnet Field LinesThis also insulates the outer side of the magnet so it is less likely to get stuck to steel items while they are being worn. <img src="images/Qmag-field-lines.jpg" class="imgRight imgPadLeft imgSizeMid" /></li>
+	<li>The outer side has a flux shield attached which is made of high grade magnetic stainless steel which drives the field deeper into the body and further enhances the field gradient. Qmagnet Field LinesThis also insulates the outer side of the magnet so it is less likely to get stuck to steel items while they are being worn. <img src="images/Qmag-field-lines.jpg" class="imgRight" /></li>
 	<li>The newest model has more curved edges so there is less chance of getting your fingers pinched if they clap together. </li>
 	<li>The high quality sticker on the outside of the device displays the orientation arrow as well the medical device ARTG number as well as a unique serial number. Since every device has a unique serial number, we are able to implement our quality assurance program and fulfil our post-market surveillance obligations for medical devices. </li>
 	<li>The magnets have extra strength plating to reduce the chance of scratching or breaking and most models come in either gold or silver to reduce the risk of skin allergies.</li>
@@ -70,7 +77,7 @@ if(file_exists("includes/metatags/meta-".basename($_SERVER['PHP_SELF']))) {
             <div class="left_bottom_img"><img src="images/body_left_bottom_img.jpg" alt="" border="0"></div>
             </div>
           </div>
-          
+           
           <div class="body_right_area">
           <?php include("includes/yourpain.php");  ?>
           <?php include("includes/blog.php");      ?>

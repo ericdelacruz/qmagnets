@@ -22,7 +22,7 @@ if(file_exists("includes/metatags/meta-".basename($_SERVER['PHP_SELF']))) {
 </head>
 <body>
 <div id="main_area">
-  <div class="main"> 
+  <div class="main">  
     <!--===================start header part===================-->
     <header>
       <div class="header_area">

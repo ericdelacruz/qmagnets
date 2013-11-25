@@ -48,7 +48,7 @@ if(file_exists("includes/metatags/meta-".basename($_SERVER['PHP_SELF']))) {
             </div>
             <div class="about_body_text_box">
 				<div id="cse-results" style="display: none;"></div><div class="body_left_text_area customContentStyle" id="static-content">
-				
+				 
 <p>There is a lot more to magnets than the North and South pole contained in all common bipolar magnets. Where the strength of a magnetic field changes with distance there exists a field gradient which occurs equally at the North or South pole.</p>
 <p> Magnetic materials are attracted to field gradients and NOT to a uniform or what physicists call a homogeneous field. This is well illustrated with the cow magnet. Cow magnets are used by cattle farmers to safely collect any metal objects such as nails or barbed wire their animal might ingest. Because the cow magnet produces a field gradient along the length of its shaft, metal objects will neatly stick to its sides. This is how it works...</p>
 

@@ -12,6 +12,13 @@ if(file_exists("includes/metatags/meta-".basename($_SERVER['PHP_SELF']))) {
 	echo '<title>Qmagnets</title>';
 }
 ?>
+<style>
+.customContentStyle { }
+.customContentStyle h3 { margin-bottom:5px; }
+.customContentStyle p { margin-bottom:16px; }
+.customContentStyle ol { padding-left:30px; }
+.customContentStyle ol li { margin-bottom:5px; }
+</style>
 </head>
 <body>
 <div id="main_area">
@@ -43,45 +50,43 @@ if(file_exists("includes/metatags/meta-".basename($_SERVER['PHP_SELF']))) {
 				<div id="cse-results" style="display: none;"></div><div class="body_left_text_area customContentStyle" id="static-content">
 <h3><a href="bodymap.php">Your Pain</a> &gt;&gt; Q magnet Prescription for Menstrual/Abdominal Pain:</h3>
 
-<p class="centeredImageLink">
-  <img src="images/abdominal.gif" alt="Abdominal" /><br>
-  <a href="images/Slide19.jpg">Click image for more details.</a>
-</p>
+<div style="text-align:center;"><p><a href="images/Slide19.jpg"><img src="images/abdominal.gif" alt="Abdominal" /></a></p><a href="images/Slide19.jpg">Click image for more details.</a></div>
+<p>&nbsp;</p>
 <p>Place one Q magnet device in the middle of the pelvic area, just above the pubic bone and the pubic hair. Place two additional devices above and in a triangle shape as shown. This placement varies individually depending on the location of your pain.</p>
 <p>If it's lower abdominal pain, two additional devices may be placed on the back, over the dimples, above the buttocks. See the <a href="lowerback.php">Alternative Lower Back Placement</a> for help.</p>
 <p>Finally, if the pain is from surgery and abdominal scaring, usually the devices are placed over the affected areas.</p>
 <p><a href="http://qmagnets.com/blog/category/pain-testimonies/abdominal-pain">Click here for Q magnet testimonies for abdominal pain</a></p>
 
-<table class="tablelist1">
+<table class="tablelist1" cellspacing="0" cellpadding="0" width="100%">
 <thead>
  <tr>
-  <td>Pain Level</td>
-  <td>Order Quantity</td>
-  <td>Shopping Cart</td>
+  <td width="25%"><span>Pain Level</span></td>
+  <td width="35%"><span>Order Quantity</span></td>
+  <td width="40%"><span>Shopping Cart</span></td>
  </tr>
 </thead>
 <tbody>
  <tr>
-    <td>Severe</td>
-    <td>2 X QF28-6, 3 X QF28-3</td>
-    <td> $315.00 <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=BDA24534-D9B5-4373-886C-06EB27E1F088&amp;pid=5da45cf5f703415cad016ebf576b8ab3"><img src="images/cart.jpg" alt="Add to shopping cart" width="134" height="23" border="0" /></a></td>
+    <td><span>Severe</span></td>
+    <td><span>2 X QF28-6, 3 X QF28-3</span></td>
+    <td><span><a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=BDA24534-D9B5-4373-886C-06EB27E1F088&amp;pid=5da45cf5f703415cad016ebf576b8ab3"><img src="images/cart.jpg" alt="Add to shopping cart" width="134" height="23" border="0" /></a> $315.00</td>
   </tr>
  <tr>
-    <td>Severe</td>
-    <td>3 X QF28-3</td>
-    <td> $177.00 <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=BDA24534-D9B5-4373-886C-06EB27E1F088&amp;pid=b3fe6613c2bd4ee4b7cd055ed141d43f"><img src="images/cart.jpg" alt="Add to shopping cart" width="134" height="23" border="0" /></a</td>
+    <td><span>Severe</span></td>
+    <td><span>3 X QF28-3</span></td>
+    <td><span><a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=BDA24534-D9B5-4373-886C-06EB27E1F088&amp;pid=b3fe6613c2bd4ee4b7cd055ed141d43f"><img src="images/cart.jpg" alt="Add to shopping cart" width="134" height="23" border="0" /></a> $177.00</span></td>
   </tr>
  <tr>
-    <td>Moderate</td>
-    <td>3 X QF20-3</td>
-    <td> $99.00 <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=BDA24534-D9B5-4373-886C-06EB27E1F088&amp;pid=cf4d91192f7a4efc985aa05494f1024a"><img src="images/cart.jpg" alt="Add to shopping cart" width="134" height="23" border="0" /></a></td>
+    <td><span>Moderate</span></td>
+    <td><span>3 X QF20-3</span></td>
+    <td><span><a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=BDA24534-D9B5-4373-886C-06EB27E1F088&amp;pid=cf4d91192f7a4efc985aa05494f1024a"><img src="images/cart.jpg" alt="Add to shopping cart" width="134" height="23" border="0" /></a> $99.00 </span></td>
   </tr>
 </tbody>
 <tfoot>
  <tr>
-  <td colspan="3">For best value purchase the <a href="products.php">Q Bonus Package</a></td>
+  <td colspan="3"><span>For best value purchase the <a href="products.php">Q Bonus Package</a></span></td>
  </tr>
-</tfoot>
+</tfoot> 
 </table>
 
 <h3>Note:</h3>

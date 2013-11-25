@@ -226,7 +226,7 @@ PROFESSIONALS</a></div>
           </div>
           </div>
           
-          <div class="body_right_area">
+          <div class="body_right_area"> 
 		  <!--a href="http://www.2ue.com.au/healthyliving" target="_blank"><img src="images/090-2UE-2013-Sidebar-291x47-RossW.png" alt="Healthy Living with Dr Ross Walker" /></a-->
           <?php include("includes/yourpain.php");  ?>
           <?php include("includes/blog.php"); ?>

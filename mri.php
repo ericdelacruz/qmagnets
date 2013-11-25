@@ -72,7 +72,7 @@ if(file_exists("includes/metatags/meta-".basename($_SERVER['PHP_SELF']))) {
 	</div>
 </div>
 
-
+ 
  
 <div class="mribox">
 <h3>Image B - Quadrapolar Array</h3>
