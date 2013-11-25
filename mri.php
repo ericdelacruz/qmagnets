@@ -44,10 +44,11 @@ if(file_exists("includes/metatags/meta-".basename($_SERVER['PHP_SELF']))) {
           <div class="body_left_area">
           <div class="body_text_area">
             <div class="body_heading_bg">
-              <h1>Title: Neuromagnetic Treatment Following Whiplash in an Equestrian Sportsman</h1>
+              <h1>Magnetic Resonance Imaging</h1>
             </div>
             <div class="about_body_text_box">
 				<div id="cse-results" style="display: none;"></div><div class="body_left_text_area customContentStyle" id="static-content">
+				<h3>How The Development of Magnetic Resonance Imaging (MRI) Illustrates What's Possible With Magnetic Fields. </h3>
 				
 <p><img src="images/mri.jpg" class="imgLeft" width="220" style="border:1px solid #FFF;" />The breakthrough in the discovery of both the MRI for imaging and Q magnets for pain relief is found in magnetic field gradients. While the MRI is a state-of-the-art diagnostic instrument, its story shows how gradient modulated magnetic fields can be applied to improve the lives of patients. </p>
 <p> In simple terms the MRI detects the concentration of protons within the body, most of which make up water molecules. Using magnetic field gradients and radio frequency the MRI is able to produce a two dimensional image which roughly correlates to the concentration of water. Hence bone and cavities show up as black and fat very light. Different tissue types respond differently and this is how a radiologist is able to make sense of the MRI films.</p>
@@ -72,7 +73,7 @@ if(file_exists("includes/metatags/meta-".basename($_SERVER['PHP_SELF']))) {
 </div>
 
 
-
+ 
 <div class="mribox">
 <h3>Image B - Quadrapolar Array</h3>
 	<div style="padding:10px 5px; text-align:center">

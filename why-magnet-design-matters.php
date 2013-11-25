@@ -64,7 +64,19 @@ if(file_exists("includes/metatags/meta-".basename($_SERVER['PHP_SELF']))) {
 <div style="text-align:center; overflow:hidden;">
 <img src="images/BipolarNails-450-lr.jpg" width="200" style="float:left; margin-right:10px;" /><img src="images/Bipolarfilings-450lr.jpg" width="200" style="float:left" />
 </div><p>&nbsp;</p>
-
+<p>The design of Q magnets for therapeutic effects is even more complicated as the research on <a href="magnetic-therapy-relevant-research.php#researchpaper_eb_mclean_2001">cell studies undertaken by neurologists at Vanderbilt Medical University</a> showed (<a href="downloads/Pub-TreatPain.pdf">Static Magnetic Fields for the Treatment of Pain</a>); the active region of the magnet is where the field gradient is perpendicular to the local field vector. This can be seen with iron filings on a Q magnet. See more about <a href="how-Q-magnets-work.php">how magnets help with pain</a> here. </p>
+<div class="centered">
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="350" height="306" align="baseline" title="Quadrapolar magnet with iron filings">
+<param name="movie" value="/swf/Qmagnets ProQ.swf" />
+<param name="quality" value="high" />
+<embed src="/swf/Qmagnets ProQ.swf" width="350" height="306" align="baseline" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash"></embed>
+</object>
+</div>
+<br />
+<div class="centered">
+<a href="products.php"><img src="images/order-now-button.gif" alt="Order Now!" /></a>
+<p>Order your Qmagnets risk free now!  Choose from our range of economical packages, shipped to your home. </p>
+</div>
 				</div>
              </div>
             <div class="left_bottom_img"><img src="images/body_left_bottom_img.jpg" alt="" border="0"></div>

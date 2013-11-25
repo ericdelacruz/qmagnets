@@ -108,7 +108,7 @@ if(file_exists("includes/metatags/meta-".basename($_SERVER['PHP_SELF']))) {
   <td width="15"></td>
   <td valign="top"><img src="images/Australianmadeowned_000.jpg" alt="James Hermans" /></td>
  </tr>
-</table>
+</table> 
 </div>
 
 				</div>

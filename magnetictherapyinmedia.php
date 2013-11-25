@@ -62,11 +62,11 @@ if(file_exists("includes/metatags/meta-".basename($_SERVER['PHP_SELF']))) {
 </ol>
 
 <p>US National Centre for Complementary and Alternative Medicine article on Magnets for Pain - accessed May, 2009 Makes no reference to Dr Holcomb's work or magnetic field gradients. States thatstatic magnetic fields do not change; but when ions flow through a steep field gradient,the effect simulates a changing field.</p>
-<ol class="newLinks">
+<ul class="newLinks" style="list-style:disc; margin-left:30px;">
 	<li><a href="http://www.sciencedaily.com/releases/2007/08/070808092857.htm" target="_blank">Science Daily Aug 9, 2007 - The strongest magnet in the world at 26.8 Tesla</a></li>
 	<li><a href="http://news.bbc.co.uk/1/hi/health/6683757.stm" target="_blank">BBC News May 24, 2007 - Magnets help regrow brain cells</a></li>
 	<li><a href="http://www.virtualcancercentre.com/pda/news.asp?artid=9335" target="_blank">UCSF Children's Hospital March 17, 2007 - Using magnets to correct sunken chest;</a></li>
-</ol>
+</ul>
 
 <p> FDA approve magnets as safe for long term exposure.</p>
 <ol class="newLinks">

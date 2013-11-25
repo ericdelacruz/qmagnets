@@ -17,6 +17,7 @@ a:hover { text-decoration:underline }
 .imgRight { float:right; margin:10px 0px 0px 10px }
 
 .tablelist1 { border:1px solid #333; margin-bottom:20px; }
+.tablelist1 td { font-size:12px; text-align:left; }
 .tablelist1 span { display:block; padding:5px 10px; }
 .tablelist1 thead { background:#333; }
 .tablelist1 thead span { font-weight:bold; text-transform:uppercase; }

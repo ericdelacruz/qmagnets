@@ -58,7 +58,12 @@ if(file_exists("includes/metatags/meta-".basename($_SERVER['PHP_SELF']))) {
 
 <p>Some competing products claim to sell unipolar magnets, however unipolar or monopole magnets do not exist. Every magnet that has a North or Positive pole, will also have a corresponding South or Negative pole. </p>
 <p>For an example of unsubstantiated claims, this company sells electromagnetic protection products and state in <a href="http://www.item-bioenergy.com/infocenter/StrengthRatingsofTherapeuticMagnets.pdf" target="_blank">their sales literature</a> that the FDA recommend a safe limit for magnetic field strength of 50mT. If you actually look at the <a href="http://vm.cfsan.fda.gov/~frf/forum97/97J04.htm" target="_blank">FDA document</a> they reference, there are many glaring omissions. There was no noticeable effect with exposure to this magnetic field, but the most important was that the study was referring to a low frequency pulsed electromagnetic magnetic field and not a static magnetic field. We point this out as some customers enquire if Q magnets are safe. The World Health Organisation recently issues a report that we have on our website that confirms that <a href="faq.php#Anchor-Safe-1135">static magnetic fields under 2 Tesla are safe for humans</a>. </p>
+<p>Q magnets are designed, tested and manufactured based on the latest scientific research to have the best possible therapeutic effect. </p>
 
+<div class="centered">
+<p>Click on the Order Now button below to place your order. </p>
+<a href="products.php"><img src="images/order-now-button.gif" alt="Order Now!" /></a>
+</div>
 				
 				</div>
              </div>
