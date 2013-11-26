@@ -77,7 +77,7 @@ if(file_exists("includes/metatags/meta-".basename($_SERVER['PHP_SELF']))) {
             <thead>
               <tr>
                 <td width="100"><span>Pain Level</span></td>
-                <td><span>Order Quantity</span></td>
+                <td width="130"><span>Order Quantity</span></td>
                 <td><span>Shopping Cart</span></td>
               </tr>
             </thead>
@@ -85,12 +85,12 @@ if(file_exists("includes/metatags/meta-".basename($_SERVER['PHP_SELF']))) {
               <tr>
                 <td><span>Severe</span> </td>
                 <td><span>2 X QF28-6, 1  X QF28-3</span></td>
-                <td><span><a href="http://www.1shoppingcart.com/app/netcart.asp?MerchantID=96291&amp;ProductID=3366348"><img width="134" height="23" border="0" alt="Add to shopping cart" src="images/cart.jpg"></a> $197.00</span> </td>
+                <td><a href="http://www.1shoppingcart.com/app/netcart.asp?MerchantID=96291&amp;ProductID=3366348"><img width="134" height="23" border="0" alt="Add to shopping cart" src="images/cart.jpg"></a> $197.00</td>
               </tr>
               <tr>
                 <td><span>Moderate</span></td>
                 <td><span>3 X QF20-3</span></td>
-                <td><span> <a href="http://www.1shoppingcart.com/app/netcart.asp?MerchantID=96291&amp;ProductID=3366349"><img width="134" height="23" border="0" alt="Add to shopping cart" src="images/cart.jpg"></a> $99.00</span></td>
+                <td><a href="http://www.1shoppingcart.com/app/netcart.asp?MerchantID=96291&amp;ProductID=3366349"><img width="134" height="23" border="0" alt="Add to shopping cart" src="images/cart.jpg"></a> $99.00</td>
               </tr>
             </tbody>
             <tfoot>

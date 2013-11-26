@@ -2076,7 +2076,7 @@ a.links-table{
 
 
 .tablelist1 { border:1px solid #333; margin: 30px 0; width: 100%;}
-.tablelist1 td { padding:5px 2px; }
+.tablelist1 td { text-align:left; }
 .tablelist1 thead { background:#333; text-align: center; font-weight:bold; text-transform:uppercase; }
 .tablelist1 thead>tr>td:first-child{ width: 80px }
 .tablelist1 thead>tr>td:last-child{ width: 190px }
@@ -2087,7 +2087,6 @@ a.links-table{
 .tablelist1 img{
 	display: inline;
 	vertical-align: bottom;
-	float: right;
 }
 /*
 .customContentStyle { }

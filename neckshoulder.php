@@ -90,8 +90,8 @@ color:#CCB363;
             </a>
           <table class="tablelist1" width="100%">
             <thead><tr>
-              <td><span>Pain Level </span></td>
-              <td><span>Order Quantity</span></td>
+              <td width="100"><span>Pain Level </span></td>
+              <td width="120"><span>Order Quantity</span></td>
               <td><span>Shopping Cart</span></td>
             </tr>
             </thead>
@@ -99,17 +99,17 @@ color:#CCB363;
               <tr>
                 <td><span>Severe </span></td>
                 <td><span>2 X QF28-3 + 2 X QF20-3 (4 device array)</span></td>
-                <td><span><a href="http://www.1shoppingcart.com/app/netcart.asp?MerchantID=96291&amp;ProductID=3366213"><img width="134" height="23" border="0" alt="Add to shopping cart" src="images/cart.jpg"></a> $184.00</span></td>
+                <td><a href="http://www.1shoppingcart.com/app/netcart.asp?MerchantID=96291&amp;ProductID=3366213"><img width="134" height="23" border="0" alt="Add to shopping cart" src="images/cart.jpg"></a> $184.00</td>
               </tr>
               <tr>
                 <td><span>Severe </span></td>
                 <td><span>1 X QF28-3 + 2 X QF20-3 (3 device array)</span></td>
-                <td><span><a href="http://www.1shoppingcart.com/app/netcart.asp?MerchantID=96291&amp;ProductID=3366224"><img width="134" height="23" border="0" alt="Add to shopping cart" src="images/cart.jpg"></a> $125.00</span></td>
+                <td><a href="http://www.1shoppingcart.com/app/netcart.asp?MerchantID=96291&amp;ProductID=3366224"><img width="134" height="23" border="0" alt="Add to shopping cart" src="images/cart.jpg"></a> $125.00</td>
               </tr>
               <tr>
                 <td><span>Moderate</span></td>
                 <td><span>3 X QF20-3</span></td>
-                <td><span><a href="http://www.1shoppingcart.com/app/netcart.asp?MerchantID=96291&amp;ProductID=3366228"><img width="134" height="23" border="0" alt="Add to shopping cart" src="images/cart.jpg"></a> $99.00 </span></td>
+                <td><a href="http://www.1shoppingcart.com/app/netcart.asp?MerchantID=96291&amp;ProductID=3366228"><img width="134" height="23" border="0" alt="Add to shopping cart" src="images/cart.jpg"></a> $99.00 </td>
               </tr>
             </tbody>
             <tfoot>
