@@ -56,8 +56,9 @@ color:#CCB363;
             <div class="about_body_text_box" ><div class="body_left_text_area customContentStyle">
               <h3> <a href="bodymap.php">Your Pain</a> >> Q magnet Prescription for  shoulder pain:</h3>
               <p class="centered ImageLink">
-                <a href="images/Slide11.jpg"><img src="images/shoulderF.gif"><br>
-                Click on image for more details.</a> 
+                <a href="images/Slide11.jpg"><img src="images/shoulderF.gif" alt="Shoulder Pain" />
+				<div style="text-align:center">Click on image for more details.</div>
+				</a> 
             </p>
             <p><span class="strong">Front of Shoulder</span><br><br>             
              Joint pain of the shoulder can be treated with Qmagnet devices as shown by placing a device over the joint space in the front and back and on the top part of the arm. Use at least three devices. To find the joint space in front, raise and lower the affected arm while gently pressing in front of the base of the shoulder. Place a Qmagnet device in the space felt in front of the shoulder joint.
@@ -65,7 +66,7 @@ color:#CCB363;
            <p class="centered ImageLink">
            <iframe width="420" height="315" src="http://www.youtube.com/embed/H2Onh0jaark?feature=player_detailpage" frameborder="0" allowfullscreen></iframe><br /><br />
              <a href="images/Slide12.jpg"><img src="images/shoulderB.gif"><br>
-              Click on image for more details
+              <div style="text-align:center">Click on image for more details</div>
             </a>
           </p>
           <p><span class="strong">Back Shoulder</span><br><br>
@@ -74,7 +75,7 @@ color:#CCB363;
           </p>
           <p class="centered ImageLink">
             <a href="images/Slide13.jpg"><img src="images/shoulderA.gif"><br>
-              Click on image for more details.
+              <div style="text-align:center">Click on image for more details.</div>
             </a>
           </p>
           <p><span class="strong">Acute Shoulder</span><br><br>
