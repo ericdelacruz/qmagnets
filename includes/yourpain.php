@@ -102,7 +102,7 @@ function clearall()
 </script>	
 
 <form name="form" method="post" action="" onsubmit="return check();">
-<div class="body_right_feild_area">
+<div class="body_right_feild_area" style="display:none;">
             <div class="body_right_heading_bg">Where's Your Pain </div>
             <div class="right_box_body_bg">
               <div class="right_field_area">
@@ -225,3 +225,5 @@ function clearall()
             </div>
             <div class="body_right_bottom_img"><img src="images/body_right_bottom_img.jpg" alt="" width="324" height="36" border="0"></div>
               </div>
+			  
+			 </form>
