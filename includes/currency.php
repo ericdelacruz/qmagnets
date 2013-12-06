@@ -27,7 +27,7 @@ $(document).ready(function() {
 
           <div class="local_bg">Local Currency Purchase</div>
           <div class="flag_icon_area translation-links">
-		  <form method="post" id="currencyInput"><input type="hidden" name="currency" class="currencyInput" /></form>
+		  <form method="post" id="currencyInput" action="products.php"><input type="hidden" name="currency" class="currencyInput" /></form>
            	<div class="flag_img"><a href="" rel="us"><img src="images/flag_img8.jpg" alt="" width="23" height="14" border="0" title="USD"></a></div>
             <div class="flag_img"> <a href="products.php" rel="aus"><img src="images/flag_img1.jpg" alt="" width="23" height="14" border="0" title="AUD"></a></div>
             <div class="flag_img"><a href="products.php" rel="can"><img src="images/flag_img2.jpg" alt="" width="23" height="14" border="0" title="CAD"></a></div>             

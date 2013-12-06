@@ -52,33 +52,37 @@ if(file_exists("includes/metatags/meta-".basename($_SERVER['PHP_SELF']))) {
               </p>
               <div class="contentWrapper">
                 <span class="strongUnder">Note: We hate spam as much as you do! We will NEVER abuse, share, sell or rent your details.</span>
-                <div id="table"> 
-                  <form name="form1" method="post" action="https://www.mcssl.com/app/contactsave.asp">
-                    <input name="merchantid" type="hidden" id="merchantid" value="96291">
-                    <input name="ARThankyouURL" type="hidden" id="ARThankyouURL" value="http://www.qmagnets.com/thankyou.php">
-                    <input name="copyarresponse" type="hidden" id="copyarresponse" value="1">
-                    <input name="custom" type="hidden" id="custom" value="0">
-                    <input name="defaultar" type="hidden" id="defaultar" value="220099">
-                    <input name="allowmulti" type="hidden" id="allowmulti" value="0">
-                    <input name="visiblefields" type="hidden" id="visiblefields" value="Name,Email1">
-                    <input name="requiredfields" type="hidden" id="requiredfields" value="Email1">
-                    <table>
-                        <tbody><tr>
-                          <td>Name</td>
-                          <td><input name="Name" type="text" size="40"></td>
-                        </tr>
-                        <tr>
-                          <td>Email</td>
-                          <td><input name="Email1" type="text" size="40"></td>
-                        </tr>
-                      <tr align="center">
-                        <td colspan="2">
-                          <input type="Submit" name="cmdSubmit" value="Submit">
-                        </td>
-                      </tr>
-                      </tbody></table>
-                    </form>
-                  </div>
+				
+				
+				<style>
+				.painreliefform { background:url('images/formbg.png') no-repeat 0px 0px; width:400px; height:160px; padding:14px; margin:0px auto;}
+				.formwrappers { padding:40px 20px 0px; }
+				.formwrappers div { padding-bottom:10px; }
+				.formwrappers div label { float:left; width:70px; text-align:right; margin-right:10px }
+				.formwrappers .news_textfield{ padding:4px; color:#000; }
+				</style>
+				
+				
+				
+				<div class="painreliefform">
+					<form name="form1" method="post" action="https://www.mcssl.com/app/contactsave.asp">
+					<input name="merchantid" type="hidden" id="merchantid" value="96291" />
+					<input name="ARThankyouURL" type="hidden" id="ARThankyouURL" value="http://www.qmagnets.com/thankyou.php" />
+					<input name="copyarresponse" type="hidden" id="copyarresponse" value="1" />
+					<input name="custom" type="hidden" id="custom" value="0" />
+					<input name="defaultar" type="hidden" id="defaultar" value="220099" />
+					<input name="allowmulti" type="hidden" id="allowmulti" value="0" />
+					<input name="visiblefields" type="hidden" id="visiblefields" value="Name,Email1" /> 
+					<input name="requiredfields" type="hidden" id="requiredfields" value="Email1" />
+					<div class="formwrappers">
+					<div><label>Name: </label><input name="Name" type="text" size="40" class="news_textfield" required="" /></div>
+					<div><label>Email: </label><input name="Email1" type="text" size="40" class="news_textfield" required="" /></div>
+					<div style="padding-left:80px"><input type="Submit" name="cmdSubmit" value="Submit" /></div>
+					</div>
+					</form>
+				</div>
+				
+
               </div>
               <p class="contentWrapper">
                 Our thirst for convenience is one of the main contributors to our current health crisis. A crisis that is made up of increasing rates of obesity, diabetes, dementia and chronic health conditions including pain. Even the incidence of stroke, heart disease, arthritis, osteoporosis and cancer are much higher than they need be.

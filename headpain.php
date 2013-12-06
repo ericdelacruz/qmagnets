@@ -67,7 +67,7 @@ color:#CCB363;
                <br><br>
                 The second placement is over the occiput or basilar artery which is at the base of the skull - see video below for exact placement. If the migraine or headache originates from the neck, then you will most likely need to follow the <a href="neckpain.php"> Q magnet prescription for Neck Pain  </a> as well.
                 <br><br>
-                See the beginning of the <a href="#" >Good Medicine </a>program which shows a patient being treated for migraines. 
+                See the beginning of the <a href="https://www.youtube.com/watch?v=IHbaGTIGA7w&feature=c4-overview-vl&list=PL6156D5A04C3F671A" >Good Medicine </a>program which shows a patient being treated for migraines. 
              </p>
                <div class="centered"><iframe width="420" height="315" src="http://www.youtube.com/embed/gb4IOsc-I00?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
                

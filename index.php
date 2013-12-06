@@ -193,7 +193,9 @@ Get Back to doing what you Love SOONER!
             <div class="body_heading_bg_big">
               <h1>Q magnets - a break through in <a href="magnetictherapy.php">magnetic therapy</a> and <a href="natural-pain-relief.php">natural pain relief</a>?</h1>
             </div>
-			 
+			 <style>
+			 .box_img img,#body_img img { border:2px solid #444; }
+			 </style>
             <div class="body_text_box">
       <div id="cse-results" style="display: none;"></div>
 			 <div class="body_left_text_area" id="static-content">This website is packed with <a href="http://qmagnets.com/blog/magnetic-therapy-2/neuromagnetics-as-a-subset-of-the-broad-category-magnetic-therapy.html">research information</a>, testimonies from <a href="http://qmagnets.com/blog/sport/cricket/why-are-some-of-australias-top-sporting-champions-using-magnetic-therapy.html">sporting champions</a> and <a href="http://qmagnets.com/blog/physiotherapist/sports-physiotherapist-to-the-australian-wallabies-and-brisbane-lions-shares-his-experience-with-q-magnets.html">sports medicine clinicians</a>, <a href="http://qmagnets.com/blog/sport/faster-recovery-for-soft-tissue-injury-grade-iii-calf-tear-2.html">case studies</a>, <a href="how-Q-magnets-work.php">technical descriptions</a>, advice on <a href="bodymap.php">how to use Q magnets</a> and <a href="products.php">13 different medical magnets</a> for purchase. <br>
