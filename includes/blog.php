@@ -1,3 +1,9 @@
+<a class="twitter-timeline" data-dnt="true" href="https://twitter.com/Neuromagnetics"  data-widget-id="410974762848878592">Tweets by @Neuromagnetics</a>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+
+
+
 <div class="body_right_feild_area">
 	<div class="body_right_blog_heading_bg">
 		<div class="heading_text">Latest Blog Posts</div>
