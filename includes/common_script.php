@@ -13,8 +13,8 @@ input.styled {
 }
 a { color:#ccb363; text-decoration:none }
 a:hover { text-decoration:underline }
-.imgLeft { float:left; margin:5px 10px 0px 0px; }
-.imgRight { float:right; margin:10px 0px 0px 10px }
+.imgLeft { float:left; margin:5px 10px 0px 0px !important; }
+.imgRight { float:right; margin:10px 0px 0px 10px !important; }
 
 .tablelist1 { border:1px solid #333; margin-bottom:20px; }
 .tablelist1 td { font-size:12px; text-align:left; }

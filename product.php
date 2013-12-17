@@ -820,6 +820,7 @@ $prodTitle=substr_replace($nstr, "", 0,$postStrE);
 	
 .pro_contents { border:1px solid #333; padding:10px 0px; border-width:1px 0px; overflow:hidden; }
 .pro_contents h3 { border-bottom:1px solid #333; padding-bottom:8px; }
+.imgLeft { margin-right:10px !important; }
 </style>
 					<div class="mainproDesc">
 						<div class="proImgSide">

@@ -104,7 +104,14 @@ if( strcasecmp($_SESSION['4_letters_code'], $_POST['4_letters_code']) == 0 && co
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Qmagnets</title>
+<?php
+if(file_exists("includes/metatags/meta-".basename($_SERVER['PHP_SELF']))) {
+	include("includes/metatags/meta-".basename($_SERVER['PHP_SELF'])); 
+} else {
+	// ONCE META TAG NOT FOUND USE THE DEFAULT TITLE TAG
+	echo '<title>Qmagnets</title>';
+}
+?>
 <link href="css/global.css" rel="stylesheet" type="text/css">
 <!--====================nav part====================-->
 <link href="chrometheme/chromestyle.css" rel="stylesheet" type="text/css" />

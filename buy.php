@@ -513,7 +513,123 @@ function moveTo(optionValue) {
         </div>
          <a href="buy-QF20-3.php" style="color:#CCB363; font-weight:bold; font-size:14px; text-decoration:none">Click for More Details</a>
       </div>
-      
+     <div class="buy_now_body_box"><a id="HF28-3"></a>
+        <div class="buy_now_box_heading">HF28-3</div>
+        <div class="buy_now_img_box"><a href="buy-HF28-3.php"><img src="images/HF28-3.jpg" alt="" width="199" height="189" border="0"></a>
+       
+        </div>
+        <div class="buy_now_img_text">
+		<?php echo $pro_list['hf28-3']['desc']; ?>
+		<br>
+            <h2>
+            
+            <?php echo $symbol.' '.$HF283['price']; ?>
+            
+           
+          </h2>
+          <h2>
+          <select class="currencySelector">         
+           <option value="us"<?php echo ($_SESSION['site_currency']=='us' ? ' selected="true"' : ''); ?>>USD</option>
+           <option value="aus"<?php echo ($_SESSION['site_currency']=='aus' ? ' selected="true"' : ''); ?>>AUD</option>         
+           <option value="jap"<?php echo ($_SESSION['site_currency']=='jap' ? ' selected="true"' : ''); ?>>JPY</option>
+           <option value="can"<?php echo ($_SESSION['site_currency']=='can' ? ' selected="true"' : ''); ?>>CAD</option>
+           <option value="brit"<?php echo ($_SESSION['site_currency']=='brit' ? ' selected="true"' : ''); ?>>GBP</option>
+           <option value="euro"<?php echo ($_SESSION['site_currency']=='euro' ? ' selected="true"' : ''); ?>>EUR</option>
+           <option value="hong"<?php echo ($_SESSION['site_currency']=='hong' ? ' selected="true"' : ''); ?>>HKD</option>
+           <option value="sing"<?php echo ($_SESSION['site_currency']=='sing' ? ' selected="true"' : ''); ?>>SGD</option>
+           <option value="new"<?php echo ($_SESSION['site_currency']=='new' ? ' selected="true"' : ''); ?>>NZD</option>
+          </select>
+          </h2>
+          <div class="add_to_shopping_button">
+          
+          
+            <a href="<?php echo $HF283['link']; ?>" target="_blank"><img src="images/add_to_shopping_button.png" alt="" width="154" height="27" border="0"></a>
+            
+            
+          </div>
+          <!--<div class="click_link"><a href="#">Click for More Details >></a></div> -->
+        </div>
+         <a href="buy-HF28-3.php" style="color:#CCB363; font-weight:bold; font-size:14px; text-decoration:none">Click for More Details</a>
+      </div>
+	  
+     <div class="buy_now_body_box"><a id="HF20-5"></a>
+        <div class="buy_now_box_heading">HF20-5</div>
+        <div class="buy_now_img_box"><a href="buy-HF20-5.php"><img src="images/HF20-5.jpg" alt="" width="199" height="189" border="0"></a>
+       
+        </div>
+        <div class="buy_now_img_text">
+		<?php echo $pro_list['hf20-5']['desc']; ?>
+		<br>
+            <h2>
+            
+            <?php echo $symbol.' '.$HF205['price']; ?>
+            
+           
+          </h2>
+          <h2>
+          <select class="currencySelector">         
+           <option value="us"<?php echo ($_SESSION['site_currency']=='us' ? ' selected="true"' : ''); ?>>USD</option>
+           <option value="aus"<?php echo ($_SESSION['site_currency']=='aus' ? ' selected="true"' : ''); ?>>AUD</option>         
+           <option value="jap"<?php echo ($_SESSION['site_currency']=='jap' ? ' selected="true"' : ''); ?>>JPY</option>
+           <option value="can"<?php echo ($_SESSION['site_currency']=='can' ? ' selected="true"' : ''); ?>>CAD</option>
+           <option value="brit"<?php echo ($_SESSION['site_currency']=='brit' ? ' selected="true"' : ''); ?>>GBP</option>
+           <option value="euro"<?php echo ($_SESSION['site_currency']=='euro' ? ' selected="true"' : ''); ?>>EUR</option>
+           <option value="hong"<?php echo ($_SESSION['site_currency']=='hong' ? ' selected="true"' : ''); ?>>HKD</option>
+           <option value="sing"<?php echo ($_SESSION['site_currency']=='sing' ? ' selected="true"' : ''); ?>>SGD</option>
+           <option value="new"<?php echo ($_SESSION['site_currency']=='new' ? ' selected="true"' : ''); ?>>NZD</option>
+          </select>
+          </h2>
+          <div class="add_to_shopping_button">
+          
+          
+            <a href="<?php echo $HF205['link']; ?>" target="_blank"><img src="images/add_to_shopping_button.png" alt="" width="154" height="27" border="0"></a>
+            
+            
+          </div>
+          <!--<div class="click_link"><a href="#">Click for More Details >></a></div> -->
+        </div>
+         <a href="buy-HF28-3.php" style="color:#CCB363; font-weight:bold; font-size:14px; text-decoration:none">Click for More Details</a>
+      </div>
+	  
+     <div class="buy_now_body_box"><a id="HF20-3"></a>
+        <div class="buy_now_box_heading">HF20-3</div>
+        <div class="buy_now_img_box"><a href="buy-HF20-3.php"><img src="images/HF20-3.jpg" alt="" width="199" height="189" border="0"></a>
+       
+        </div>
+        <div class="buy_now_img_text">
+		<?php echo $pro_list['hf20-3']['desc']; ?>
+		<br>
+            <h2>
+            
+            <?php echo $symbol.' '.$HF203['price']; ?>
+            
+           
+          </h2>
+          <h2>
+          <select class="currencySelector">         
+           <option value="us"<?php echo ($_SESSION['site_currency']=='us' ? ' selected="true"' : ''); ?>>USD</option>
+           <option value="aus"<?php echo ($_SESSION['site_currency']=='aus' ? ' selected="true"' : ''); ?>>AUD</option>         
+           <option value="jap"<?php echo ($_SESSION['site_currency']=='jap' ? ' selected="true"' : ''); ?>>JPY</option>
+           <option value="can"<?php echo ($_SESSION['site_currency']=='can' ? ' selected="true"' : ''); ?>>CAD</option>
+           <option value="brit"<?php echo ($_SESSION['site_currency']=='brit' ? ' selected="true"' : ''); ?>>GBP</option>
+           <option value="euro"<?php echo ($_SESSION['site_currency']=='euro' ? ' selected="true"' : ''); ?>>EUR</option>
+           <option value="hong"<?php echo ($_SESSION['site_currency']=='hong' ? ' selected="true"' : ''); ?>>HKD</option>
+           <option value="sing"<?php echo ($_SESSION['site_currency']=='sing' ? ' selected="true"' : ''); ?>>SGD</option>
+           <option value="new"<?php echo ($_SESSION['site_currency']=='new' ? ' selected="true"' : ''); ?>>NZD</option>
+          </select>
+          </h2>
+          <div class="add_to_shopping_button">
+          
+          
+            <a href="<?php echo $HF203['link']; ?>" target="_blank"><img src="images/add_to_shopping_button.png" alt="" width="154" height="27" border="0"></a>
+            
+            
+          </div>
+          <!--<div class="click_link"><a href="#">Click for More Details >></a></div> -->
+        </div>
+         <a href="buy-HF28-3.php" style="color:#CCB363; font-weight:bold; font-size:14px; text-decoration:none">Click for More Details</a>
+      </div>
+	  
       <div class="buy_now_body_box"><a id="QF20-2"></a>
         <div class="buy_now_box_heading">QF20-2    </div>
         <div class="buy_now_img_box"><a href="buy-QF20-2.php"><img src="images/QF20-2.jpg" alt="" width="199" height="189" border="0"></a>
