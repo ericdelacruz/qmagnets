@@ -65,17 +65,17 @@ jQuery(document).ready(function(){
 <input name="inf_form_name" type="hidden" value="Sign up for newsletter" />
 <input name="infusionsoft_version" type="hidden" value="1.29.8.42" />
 <input type="hidden" name="inf-3JwkwyvKbIhPmmg6" class="inf-d2e3e2b6f6946880265856166a29bbf6" />
-<p><label for="inf_field_FirstName">First Name *</label><br /><input class="infusion-field-input-container" id="inf_field_FirstName" name="inf_field_FirstName" type="text" value="" placeholder="Name"/></p>
-<p><label for="inf_field_Email">Email *</label><br /><input class="infusion-field-input-container" id="inf_field_Email" name="inf_field_Email" type="text" value="" placeholder="Email" /></p>
+<p><label for="inf_field_FirstName">First Name *</label><br /><input required="" class="infusion-field-input-container" id="inf_field_FirstName" name="inf_field_FirstName" type="text" value="" placeholder="Name"/></p>
+<p><label for="inf_field_Email">Email *</label><br /><input required="" class="infusion-field-input-container" id="inf_field_Email" name="inf_field_Email" type="text" value="" placeholder="Email" /></p>
 <img alt="captcha" border="0px" name="captcha" onclick="reloadJcaptcha();" src="https://pj139.infusionsoft.com/Jcaptcha/img.jsp" title="If you can't read the image, click it to get another one." width="100" />
 <script type="text/javascript">function reloadJcaptcha() {var now = new Date();if (document.images) {document.images.captcha.src = 'https://pj139.infusionsoft.com/Jcaptcha/img.jsp?reload=' + now}}</script>
 <p><label for="captcha.typed">Enter the above code:</label><br />
-<input class="infusion-field-input-container" id="captcha.typed" name="captcha.typed" type="text" /></p>
+<input class="infusion-field-input-container" id="captcha.typed" name="captcha.typed" type="text" required="" /></p>
 <p><input type="image" src="images/signup_button.png" /></p>
 </form>
 <style>
-.infusion-form { color:#AAA; }
-.infusion-form p { padding-bottom:12px; }
+.infusion-form { color:#AAA; font-family:arial; font-size:11px; }
+.infusion-form p { padding-bottom:10px; margin:0px; }
 .infusion-form input.infusion-field-input-container { border:1px solid #444; color:#DDD; background:#222; padding:4px; }
 </style>
               </div>

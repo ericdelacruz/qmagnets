@@ -55,17 +55,50 @@ if(file_exists("includes/metatags/meta-".basename($_SERVER['PHP_SELF']))) {
 				
 				
 				<style>
-				.painreliefform { background:url('images/formbg.png') no-repeat 0px 0px; width:400px; height:160px; padding:14px; margin:0px auto;}
-				.formwrappers { padding:40px 20px 0px; }
-				.formwrappers div { padding-bottom:10px; }
-				.formwrappers div label { float:left; width:70px; text-align:right; margin-right:10px }
-				.formwrappers .news_textfield{ padding:4px; color:#000; }
+
+				.painreliefform { width:300px; padding:20px; border:3px solid #151515; background:#1C1C1C; margin:20px auto; }
+				.painreliefform .fields { padding:0px; margin:0px 0px 5px; }
+				.painreliefform .fields label { width:65px; display:block; float:left; line-height:28px; }
+				.painreliefform .fields select,.painreliefform .fields input,.painreliefform .fields textarea { width:200px; }
+				.painreliefform .fields textarea { background:#222; border:1px solid #2f2f2f; width:200px; padding:5px; color:#999; }
+				.painreliefform .fields select { background:#222222; color:#888; border:1px solid #2f2f2f; padding:2px; vertical-align:middle;  }
+				.painreliefform .fields select:focus,.painreliefform .fields input:focus { background:#333 }
+				.painreliefform .infusion-captcha { text-align:center; padding-top:15px }
+				.painreliefform .infusion-submit { text-align:center; padding-top:15px }
+				
 				</style>
 				
 				
 				
 				<div class="painreliefform">
-					<form name="form1" method="post" action="https://www.mcssl.com/app/contactsave.asp">
+				
+<form accept-charset="UTF-8" action="https://pj139.infusionsoft.com/app/form/process/8d2f4f1581df16a75b5f76ada9745db0" class="infusion-form" method="POST">
+    <input name="inf_form_xid" type="hidden" value="8d2f4f1581df16a75b5f76ada9745db0" />
+    <input name="inf_form_name" type="hidden" value="Indicate interest" />
+    <input name="infusionsoft_version" type="hidden" value="1.29.8.45" />
+	
+	<p class="fields"><label for="inf_field_FirstName">First Name * </label> <input required="" class="infusion-field-input-container" type="text" id="inf_field_FirstName" name="inf_field_FirstName" /></p>
+	<p class="fields"><label for="inf_field_Email">Email * </label> <input required="" class="infusion-field-input-container" type="text" id="inf_field_Email" name="inf_field_Email" /></p>
+
+    <div class="infusion-captcha">
+        <div>
+            <img alt="captcha" border="0px" name="captcha" onclick="reloadJcaptcha();" src="https://pj139.infusionsoft.com/Jcaptcha/img.jsp" title="If you can't read the image, click it to get another one." />
+            <script type="text/javascript">function reloadJcaptcha() {var now = new Date();if (document.images) {document.images.captcha.src = 'https://pj139.infusionsoft.com/Jcaptcha/img.jsp?reload=' + now}}</script>
+        </div>
+        <div>
+            <label for="captcha.typed">Enter the above code:</label>
+        </div>
+        <div>
+            <input required="" class="infusion-field-input-container" id="captcha.typed" name="captcha.typed" type="text" />
+        </div>
+    </div>
+    <div class="infusion-submit">
+        <input type="submit" value="Sign Me Up" />
+    </div>
+	
+</form>
+				
+					<!--form name="form1" method="post" action="https://www.mcssl.com/app/contactsave.asp">
 					<input name="merchantid" type="hidden" id="merchantid" value="96291" />
 					<input name="ARThankyouURL" type="hidden" id="ARThankyouURL" value="http://www.qmagnets.com/thankyou.php" />
 					<input name="copyarresponse" type="hidden" id="copyarresponse" value="1" />
@@ -79,7 +112,8 @@ if(file_exists("includes/metatags/meta-".basename($_SERVER['PHP_SELF']))) {
 					<div><label>Email: </label><input name="Email1" type="text" size="40" class="news_textfield" required="" /></div>
 					<div style="padding-left:80px"><input type="Submit" name="cmdSubmit" value="Submit" /></div>
 					</div>
-					</form>
+					</form-->
+					<div class="clearfix"></div>
 				</div>
 				
 
